@@ -1,0 +1,100 @@
+{
+ "B1": {
+  "n": 200,
+  "spearman": {
+   "emissivity, glass": 0.43967232984942434,
+   "emissivity, oxide (after glass loss)": -0.06628898967680448,
+   "substrate conductivity (x)": 0.06393364240557602,
+   "heat capacity (x)": 0.1090875560902674,
+   "heating correlation (x)": -0.4419195923510362,
+   "oxide growth rate kp (x)": 0.2829238938903027,
+   "SiC depletion rate (x)": 0.0869211712547292,
+   "depletion onset T_dep (K)": 0.05288047353492265,
+   "passive-to-active offset (decades)": 0.029439589124322037,
+   "mass-transfer coefficient (x)": -0.35206211818838923,
+   "glass conductivity (W/m/K)": -0.10003996016694433,
+   "ZrO2 scale conductivity (W/m/K)": -8.85694639913824e-05,
+   "temperature limit (K)": 0.2500180862514705,
+   "O2 pressure exponent n_p": -0.0837927176452709,
+   "SiO2 from depleted layer lost": -0.0864152744858293,
+   "evaporation coefficient": -0.3910401882313765,
+   "catalysis bound": 0.016734732634880733
+  },
+  "prcc": {
+   "emissivity, glass": 0.6934844919338247,
+   "emissivity, oxide (after glass loss)": 0.008387983376347531,
+   "substrate conductivity (x)": 0.03224648494181382,
+   "heat capacity (x)": 0.1337971929929944,
+   "heating correlation (x)": -0.6820578046548956,
+   "oxide growth rate kp (x)": 0.4697534120618514,
+   "SiC depletion rate (x)": 0.07531114597615357,
+   "depletion onset T_dep (K)": -0.12104837598509333,
+   "passive-to-active offset (decades)": 0.13710623652702328,
+   "mass-transfer coefficient (x)": -0.6228120137562809,
+   "glass conductivity (W/m/K)": 0.00293191057823485,
+   "ZrO2 scale conductivity (W/m/K)": -0.050744830294920815,
+   "temperature limit (K)": 0.4565307769365477,
+   "O2 pressure exponent n_p": -0.34113675650843606,
+   "SiO2 from depleted layer lost": -0.23112594828188399,
+   "evaporation coefficient": -0.5704620401069752,
+   "catalysis bound": -0.007946336772495479
+  },
+  "frac_survive": 0.115,
+  "tfail_quantiles_s": [
+   99.5990125262449,
+   234.45134112306883,
+   419.96763781250684,
+   885.4181745659017,
+   1799.9999999999998
+  ]
+ },
+ "B2": {
+  "n": 200,
+  "spearman": {
+   "emissivity, glass": 0.21987399684992126,
+   "emissivity, oxide (after glass loss)": -0.04255756393909848,
+   "substrate conductivity (x)": -0.037148428710717774,
+   "heat capacity (x)": 0.09938648466211657,
+   "heating correlation (x)": -0.2743943598589965,
+   "oxide growth rate kp (x)": 0.06302557563939098,
+   "SiC depletion rate (x)": 0.030842271056776425,
+   "depletion onset T_dep (K)": 0.07809495237380935,
+   "passive-to-active offset (decades)": -0.06356108902722568,
+   "mass-transfer coefficient (x)": -0.09884497112427812,
+   "glass conductivity (W/m/K)": 0.02610665266631666,
+   "ZrO2 scale conductivity (W/m/K)": 0.12276906922673068,
+   "temperature limit (K)": 0.899089477236931,
+   "O2 pressure exponent n_p": 0.11498837470936774,
+   "SiO2 from depleted layer lost": 0.09314032850821272,
+   "evaporation coefficient": -0.07217280432010802,
+   "catalysis bound": -0.0808375652870211
+  },
+  "prcc": {
+   "emissivity, glass": 0.6954935180947736,
+   "emissivity, oxide (after glass loss)": -0.017763760199241554,
+   "substrate conductivity (x)": -0.23097338833499945,
+   "heat capacity (x)": 0.1876694804763329,
+   "heating correlation (x)": -0.8717397639054575,
+   "oxide growth rate kp (x)": -0.07564209123403647,
+   "SiC depletion rate (x)": 0.014651547655246466,
+   "depletion onset T_dep (K)": 0.17058899468003222,
+   "passive-to-active offset (decades)": -0.17502300635824272,
+   "mass-transfer coefficient (x)": -0.1818331722472344,
+   "glass conductivity (W/m/K)": 0.004936789329209488,
+   "ZrO2 scale conductivity (W/m/K)": 0.05018310586656331,
+   "temperature limit (K)": 0.9798820587194385,
+   "O2 pressure exponent n_p": 0.09863024681617409,
+   "SiO2 from depleted layer lost": -0.04817367880170476,
+   "evaporation coefficient": -0.1113547351719028,
+   "catalysis bound": -0.31794096266932576
+  },
+  "frac_survive": 0.0,
+  "tfail_quantiles_s": [
+   31.13995187797721,
+   37.31212538631692,
+   47.916308155156116,
+   67.92996233777657,
+   112.9163127217538
+  ]
+ }
+}

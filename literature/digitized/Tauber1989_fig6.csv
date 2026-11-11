@@ -1,0 +1,8 @@
+# DIGITIZED from Tauber M.E., NASA TP-2914 (1989), Figure 6 (doc p. 8, PDF p. 12) 'Comparison of predicted and measured heat flux distributions on a circular cylinder normal to a stream' (cosine, Lees ref. 1, Kemp et al. ref. 28). Axes: 180-theta (deg from stagnation line, linear) vs q/q_SL (linear).
+# Method: page rendered at 4x; ticks by pixel scan (0..120 deg at px 112.5..861.5, 6.24 px/deg; q/q_SL 0..1.0 at py 675..40.5, 63.4 px per 0.1); values from dark-pixel runs; reading error +/-0.01 (+/-0.02 at 90 deg). Columns 2-3 hold the lower and upper theory curve where they separate.
+# Measured cylinder data in the figure: ~0.24-0.26 at 81-82 deg; 0.137-0.22 at 90 deg (three symbol types); ~0.07-0.14 at 99-100 deg (read approximately).
+angle_from_stagnation_deg,q_over_qSL_theory_lower,q_over_qSL_theory_upper,cos_angle,comment
+80,0.2,0.2,0.1736,Kemp and Lees curves coincide
+85,0.163,0.187,0.08716,two theory curves; which is Kemp and which Lees is UNSURE
+90,0.14,0.14,0,curves hidden by a data symbol centred at 0.137; +/-0.02
+100,0.078,0.093,-0.1736,two theory curves; assignment UNSURE

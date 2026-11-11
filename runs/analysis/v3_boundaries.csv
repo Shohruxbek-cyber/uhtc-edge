@@ -1,0 +1,121 @@
+stage,variant,R_mm,alt_km,M_s_ref,M_f_ref,M_s,M_f,shift_steps,mode_ref,mode,t_fail_ref_at_old,t_fail_at_old,mode_at_old,ref
+flow,flow,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,781.7114868532483,glass,baseline
+flow,flow,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1407.5058433722352,glass,baseline
+flow,flow,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1388.555087766473,glass,baseline
+flow,flow,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1431.159981854831,glass,baseline
+flow,flow,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1480.3881330769577,glass,baseline
+flow,flow,3.0,20.0,9.0,9.25,8.75,9.0,-1.0,temperature,glass,95.74793533866773,,,baseline
+flow,flow,3.0,25.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1174.4771792110366,980.6763195605346,glass,baseline
+flow,flow,3.0,30.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1224.2260426796336,1123.0271766661422,glass,baseline
+flow,flow,3.0,35.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1404.3515816273584,1349.5635785004952,glass,baseline
+flow,flow,3.0,40.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1690.7216277159453,1660.7782358865823,glass,baseline
+flow,flow,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,96.30345307773054,99.552472400081,temperature,baseline
+flow,flow,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,160.49929419892965,178.75700698584802,temperature,baseline
+flow,flow,10.0,30.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1362.8533929681232,1263.2176341521074,glass,baseline
+flow,flow,10.0,35.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1640.233304839454,1582.7452711090389,glass,baseline
+flow,flow,10.0,40.0,11.5,11.75,11.5,11.75,0.0,glass,glass,888.5327261324959,878.8714425523702,glass,baseline
+flow,flow_alpha_0.005,1.0,20.0,8.5,8.75,8.75,9.0,1.0,temperature,temperature,1336.0614912726244,nan,none,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,1.0,25.0,9.0,9.25,9.0,9.25,0.0,temperature,temperature,439.09036597036487,1441.5042917788462,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,1.0,30.0,9.5,9.75,9.75,10.0,1.0,temperature,temperature,618.176567887709,nan,none,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,1.0,35.0,10.0,10.25,10.25,10.5,1.0,temperature,temperature,1283.9756795937485,nan,none,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,1.0,40.0,10.75,11.0,10.75,11.0,0.0,temperature,temperature,463.03585253605013,1578.5695675315503,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,3.0,20.0,9.0,9.25,9.0,9.25,0.0,temperature,temperature,81.14894736461798,133.69583906272484,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,3.0,25.0,9.25,9.5,9.5,9.75,1.0,temperature,temperature,845.7153629302495,nan,none,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,3.0,30.0,10.0,10.25,10.0,10.25,0.0,temperature,temperature,217.00059737528431,525.0468771729328,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,3.0,35.0,10.5,10.75,10.75,11.0,1.0,temperature,temperature,578.8369696922452,nan,none,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,3.0,40.0,11.25,11.5,11.25,11.5,0.0,temperature,temperature,325.84975687932143,807.9336887520066,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,93.41307902632944,96.19159704806509,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,139.6866533464932,149.32086974164775,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,10.0,30.0,10.25,10.5,10.5,10.75,1.0,temperature,temperature,736.0402384892542,nan,none,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,10.0,35.0,11.0,11.25,11.0,11.25,0.0,temperature,temperature,347.18896695167655,427.94448846332597,temperature,"flow off, alpha 0.005"
+flow,flow_alpha_0.005,10.0,40.0,11.75,12.0,11.75,12.0,0.0,temperature,temperature,253.53227616687784,269.9354072354882,temperature,"flow off, alpha 0.005"
+flow,flow_F320,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,721.3238301249147,glass,baseline
+flow,flow_F320,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1289.9025417002283,glass,baseline
+flow,flow_F320,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1299.4408655461698,glass,baseline
+flow,flow_F320,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1383.8831385210115,glass,baseline
+flow,flow_F320,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1463.1697891948952,glass,baseline
+flow,flow_F320,3.0,20.0,9.0,9.25,8.75,9.0,-1.0,temperature,glass,95.74793533866773,,,baseline
+flow,flow_F320,3.0,25.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1174.4771792110366,917.0431938378819,glass,baseline
+flow,flow_F320,3.0,30.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1224.2260426796336,1067.417821301703,glass,baseline
+flow,flow_F320,3.0,35.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1404.3515816273584,1305.6837465351316,glass,baseline
+flow,flow_F320,3.0,40.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1690.7216277159453,1627.4743809329457,glass,baseline
+flow,flow_F320,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,96.30345307773054,101.47925545467051,temperature,baseline
+flow,flow_F320,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,160.49929419892965,191.41894161027165,temperature,baseline
+flow,flow_F320,10.0,30.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1362.8533929681232,1219.2950229747112,glass,baseline
+flow,flow_F320,10.0,35.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1640.233304839454,1545.1297946337613,glass,baseline
+flow,flow_F320,10.0,40.0,11.5,11.75,11.5,11.75,0.0,glass,glass,888.5327261324959,871.9890743661949,glass,baseline
+flow,flow_tau_x0.5,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,806.82128675899,glass,baseline
+flow,flow_tau_x0.5,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1446.8598218409638,glass,baseline
+flow,flow_tau_x0.5,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1415.9313012361108,glass,baseline
+flow,flow_tau_x0.5,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1446.530577311469,glass,baseline
+flow,flow_tau_x0.5,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1485.959560473025,glass,baseline
+flow,flow_tau_x0.5,3.0,20.0,9.0,9.25,8.75,9.0,-1.0,temperature,glass,95.74793533866773,,,baseline
+flow,flow_tau_x0.5,3.0,25.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1174.4771792110366,1010.2189730710713,glass,baseline
+flow,flow_tau_x0.5,3.0,30.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1224.2260426796336,1145.383594336101,glass,baseline
+flow,flow_tau_x0.5,3.0,35.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1404.3515816273584,1365.387416688945,glass,baseline
+flow,flow_tau_x0.5,3.0,40.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1690.7216277159453,1670.8570342070955,glass,baseline
+flow,flow_tau_x0.5,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,96.30345307773054,98.67431554505177,temperature,baseline
+flow,flow_tau_x0.5,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,160.49929419892965,172.68531059356042,temperature,baseline
+flow,flow_tau_x0.5,10.0,30.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1362.8533929681232,1289.7145379682042,glass,baseline
+flow,flow_tau_x0.5,10.0,35.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1640.233304839454,1601.2986018034385,glass,baseline
+flow,flow_tau_x0.5,10.0,40.0,11.5,11.75,11.5,11.75,0.0,glass,glass,888.5327261324959,882.7301493913902,glass,baseline
+flow,flow_tau_x2,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,744.9901509876522,glass,baseline
+flow,flow_tau_x2,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1349.88708387978,glass,baseline
+flow,flow_tau_x2,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1345.363836754632,glass,baseline
+flow,flow_tau_x2,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1407.6467648275545,glass,baseline
+flow,flow_tau_x2,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1470.887022429816,glass,baseline
+flow,flow_tau_x2,3.0,20.0,9.0,9.25,8.75,9.0,-1.0,temperature,glass,95.74793533866773,,,baseline
+flow,flow_tau_x2,3.0,25.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1174.4771792110366,935.4426349571033,glass,baseline
+flow,flow_tau_x2,3.0,30.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1224.2260426796336,1085.6045557730438,glass,baseline
+flow,flow_tau_x2,3.0,35.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1404.3515816273584,1321.8753845219032,glass,baseline
+flow,flow_tau_x2,3.0,40.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1690.7216277159453,1641.175887426333,glass,baseline
+flow,flow_tau_x2,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,96.30345307773054,101.4829535098158,temperature,baseline
+flow,flow_tau_x2,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,160.49929419892965,193.69204636358745,temperature,baseline
+flow,flow_tau_x2,10.0,30.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1362.8533929681232,1218.5114695629575,glass,baseline
+flow,flow_tau_x2,10.0,35.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1640.233304839454,1549.0484555772673,glass,baseline
+flow,flow_tau_x2,10.0,40.0,11.5,11.75,11.5,11.75,0.0,glass,glass,888.5327261324959,871.9040781618719,glass,baseline
+flow,flow_no_pressure,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,866.9568997525604,glass,baseline
+flow,flow_no_pressure,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1527.2479148408017,glass,baseline
+flow,flow_no_pressure,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1446.1896437004448,glass,baseline
+flow,flow_no_pressure,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1448.9290116694788,glass,baseline
+flow,flow_no_pressure,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1483.994849322034,glass,baseline
+flow,flow_no_pressure,3.0,20.0,9.0,9.25,8.75,9.0,-1.0,temperature,glass,95.74793533866773,,,baseline
+flow,flow_no_pressure,3.0,25.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1174.4771792110366,1041.730794637721,glass,baseline
+flow,flow_no_pressure,3.0,30.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1224.2260426796336,1155.5168041274965,glass,baseline
+flow,flow_no_pressure,3.0,35.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1404.3515816273584,1366.7892366145688,glass,baseline
+flow,flow_no_pressure,3.0,40.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1690.7216277159453,1668.756728490919,glass,baseline
+flow,flow_no_pressure,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,96.30345307773054,97.89722857748781,temperature,baseline
+flow,flow_no_pressure,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,160.49929419892965,169.8138246878665,temperature,baseline
+flow,flow_no_pressure,10.0,30.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1362.8533929681232,1291.345312120663,glass,baseline
+flow,flow_no_pressure,10.0,35.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1640.233304839454,1596.9394819339095,glass,baseline
+flow,flow_no_pressure,10.0,40.0,11.5,11.75,11.5,11.75,0.0,glass,glass,888.5327261324959,880.6145478672832,glass,baseline
+flankint,flank_integral,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,957.9178230140169,glass,baseline
+flankint,flank_integral,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1447.1173019010937,glass,baseline
+flankint,flank_integral,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1237.946411510759,glass,baseline
+flankint,flank_integral,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1212.3554519316704,glass,baseline
+flankint,flank_integral,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1265.9474221842047,glass,baseline
+flankint,flank_integral,3.0,20.0,9.0,9.25,9.0,9.25,0.0,temperature,temperature,95.74793533866773,69.42773475713079,temperature,baseline
+flankint,flank_integral,3.0,25.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1174.4771792110366,1015.4754170710297,glass,baseline
+flankint,flank_integral,3.0,30.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1224.2260426796336,1035.6908231723583,glass,baseline
+flankint,flank_integral,3.0,35.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1404.3515816273584,1172.8161692947042,glass,baseline
+flankint,flank_integral,3.0,40.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1690.7216277159453,1424.2878628389058,glass,baseline
+flankint,flank_integral,10.0,20.0,9.25,9.5,9.25,9.5,0.0,temperature,temperature,96.30345307773054,85.54875442231514,temperature,baseline
+flankint,flank_integral,10.0,25.0,9.75,10.0,9.75,10.0,0.0,temperature,temperature,160.49929419892965,133.19790670882483,temperature,baseline
+flankint,flank_integral,10.0,30.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1362.8533929681232,1276.4498065831613,glass,baseline
+flankint,flank_integral,10.0,35.0,10.75,11.0,10.75,11.0,0.0,glass,glass,1640.233304839454,1530.2954315470527,glass,baseline
+flankint,flank_integral,10.0,40.0,11.5,11.75,11.5,11.75,0.0,glass,glass,888.5327261324959,830.3885789217467,glass,baseline
+geometry,theta_10,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,583.3028915063641,glass,baseline
+geometry,theta_10,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,786.5213606963446,glass,baseline
+geometry,theta_10,1.0,30.0,9.25,9.5,9.0,9.25,-1.0,glass,glass,1550.2642416809983,620.3323598882622,glass,baseline
+geometry,theta_10,1.0,35.0,9.75,10.0,9.5,9.75,-1.0,glass,glass,1485.4246082659502,574.5977835424168,glass,baseline
+geometry,theta_10,1.0,40.0,10.25,10.5,10.0,10.25,-1.0,glass,glass,1494.9138718404797,596.7301948103302,glass,baseline
+geometry,flank_15mm,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,1040.9936665975486,glass,baseline
+geometry,flank_15mm,1.0,25.0,8.75,9.0,8.75,9.0,0.0,glass,glass,1794.7534982949066,1551.4587423943306,glass,baseline
+geometry,flank_15mm,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1290.9714538897204,glass,baseline
+geometry,flank_15mm,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1221.8826573714757,glass,baseline
+geometry,flank_15mm,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1237.3992198306903,glass,baseline
+geometry,flank_60mm,1.0,20.0,8.5,8.75,8.5,8.75,0.0,glass,glass,1142.7235255276953,1163.2066302084788,glass,baseline
+geometry,flank_60mm,1.0,25.0,8.75,9.0,9.0,9.25,1.0,glass,glass,1794.7534982949066,nan,none,baseline
+geometry,flank_60mm,1.0,30.0,9.25,9.5,9.25,9.5,0.0,glass,glass,1550.2642416809983,1616.5170252000771,glass,baseline
+geometry,flank_60mm,1.0,35.0,9.75,10.0,9.75,10.0,0.0,glass,glass,1485.4246082659502,1551.8404274250909,glass,baseline
+geometry,flank_60mm,1.0,40.0,10.25,10.5,10.25,10.5,0.0,glass,glass,1494.9138718404797,1569.6211898989777,glass,baseline

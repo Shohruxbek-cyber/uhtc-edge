@@ -1,0 +1,16 @@
+# DIGITIZED from Savino et al., The Open Aerospace Engineering Journal 3 (2010) 20-31, Fig. 9 "Spectral emissivity at wavelength of 1 and 9 micron vs temperature" (p. 24), SPES small-specimen tests (ZrB2-15 vol% SiC).
+# Source raster: embedded image xref 71 (389x376 px). Calibration from axis/grid lines: T[K]: px 39->1500, 151->1700, 263->1900, 375->2100; eps: px_y 8->1.0, 75->0.8, 142->0.6, 209->0.4, 277->0.2, 344->0.0.
+# Marker centres found as colour blobs (blue diamonds = 1 um, red diamonds = 9 um). The temperatures coincide with the hemisphere step Tmax values of Fig. 8 table (1573/1723/1843/1923/2053 K), so these points most likely belong to the hemisphere test (UNSURE: the caption does not say which model).
+# At ~1843 K the 1-um and 9-um markers overlap; the 1-um value there is read from the visible upper half of the blue marker (UNSURE +/-0.02).
+# Estimated reading uncertainty: +/-0.01 in eps, +/-3 K. eps_err_lo/hi = ends of the drawn error bars.
+wavelength_um,T_K,eps,eps_err_lo,eps_err_hi
+1,1573,0.89,0.84,0.95
+1,1723,0.89,0.84,0.95
+1,1843,0.86,0.85,0.87
+1,1923,0.69,0.65,0.73
+1,2053,0.69,0.65,0.73
+9,1574,0.80,0.76,0.84
+9,1723,0.80,0.76,0.84
+9,1843,0.83,0.79,0.87
+9,1923,0.83,0.79,0.87
+9,2053,0.92,0.87,0.97

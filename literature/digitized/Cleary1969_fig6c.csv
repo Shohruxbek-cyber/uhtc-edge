@@ -1,0 +1,27 @@
+# DIGITIZED from Cleary J.W., NASA TN D-5450 (1969), Figure 6(c), doc p. 41 (PDF p. 43): theory curves for R/rb=0.183, alpha=0, M=10.6, Re*=1.2e6/ft. Axes: xs/L (sharp-cone axial coordinate) vs q/q~0 (linear).
+# Method: page rendered at 3x; axis ticks located by dark-pixel scan (xs/L 0.2..1.0 at px 310..1114.5; q/q~0 0, 0.1, 0.2 at py 449, 249.5, 50); curve centre = centre of dark-pixel run in each column. Estimated reading error +/-0.002 in q/q~0 (line width ~3 px).
+# Upper curve = 'With entropy gradients' (variable-entropy edge), lower = 'Ref. 4' (Kemp-Rose-Detra local similarity, isentropic edge; Cleary eqs. 2-5). For xs/L<0.40 the two curves are drawn as one line (difference < line width) and the same value is given for both. Curve starts at the tangent point (xs/L=0.175 drawn; 0.177 computed).
+# x_over_R and s_over_R computed here for the nominal R=1.100 in (nose apex at xs=3.15 in, Fig. 2); s = wetted distance from stagnation point. Data symbols in the figure are the Table III values (see Cleary1969_TablesI-III_alpha0.csv).
+xs_over_L,x_over_R,s_over_R,q_over_qt0_Ref4_isentropic,q_over_qt0_with_entropy_gradients
+0.175,0.6984,1.265,0.1629,0.1629
+0.18,0.8002,1.37,0.1571,0.1571
+0.19,1.004,1.581,0.1436,0.1436
+0.2,1.207,1.792,0.1333,0.1333
+0.22,1.614,2.213,0.118,0.118
+0.24,2.021,2.634,0.107,0.107
+0.28,2.836,3.477,0.0927,0.0927
+0.3,3.243,3.899,0.0882,0.0882
+0.33,3.853,4.531,0.0832,0.0832
+0.36,4.464,5.163,0.0792,0.0792
+0.4,5.278,6.006,0.0749,0.0772
+0.45,6.296,7.06,0.0734,0.0752
+0.5,7.314,8.113,0.0722,0.0734
+0.6,9.349,10.22,0.0704,0.0732
+0.65,10.37,11.27,0.0702,0.0737
+0.7,11.38,12.33,0.0707,0.0739
+0.75,12.4,13.38,0.0699,0.0739
+0.8,13.42,14.44,0.0694,0.0734
+0.85,14.44,15.49,0.0684,0.0729
+0.9,15.46,16.54,0.0669,0.0719
+0.95,16.47,17.6,0.0652,0.0714
+0.99,17.29,18.44,0.0642,0.0699

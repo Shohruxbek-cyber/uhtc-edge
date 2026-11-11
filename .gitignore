@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+paper/_work/
+paper/_*.raw.pdf
+runs/**/_scratch/
+*.npz
+
+# open-access PDFs and their text extracts: kept locally, not tracked (size; redistribution rights vary).
+# literature/MANIFEST_SHA256.txt lists every file with its checksum.
+literature/pdf/
+literature/text/
+
+# NIST-JANAF tables: copyright reserved by NIST, fetched by literature/janaf/fetch_janaf.py
+literature/janaf/*.txt
+
+# local environments and TeX by-products
+.venv/
+*.aux
+*.bbl
+*.blg
+
+# regenerable caches (equilibrium-air enthalpy table, stagnation states); rebuilt on the first run
+runs/_cache/
+runs/*.done
+paper/_tex/
+paper/split/

@@ -1,0 +1,13 @@
+Data licence
+
+The saved run outputs, validation results, figures and audit tables created for this study are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 Shohruxbek Bozorov
+
+Not covered by this licence:
+- Digitized data points in literature/digitized/ and literature/notes/*.csv. Each file names the published figure or table it
+  was read from. Cite the original source when you use them.
+- NIST-JANAF tables, which are not in this repository. They are downloaded from NIST by literature/janaf/fetch_janaf.py
+  under NIST's own terms (NIST Standard Reference Database 13, doi 10.18434/T42S31).

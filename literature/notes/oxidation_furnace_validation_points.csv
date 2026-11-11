@@ -1,0 +1,59 @@
+source,note_file,vol_pct_SiC,T_C,t_min,atmosphere,set_up,quantity,value_um,sd_or_uncert_um,value_type,location
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1300,100,ambient air (stagnant),box furnace,ZrO2(+C) layer,25.1,8.7,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1300,100,ambient air (stagnant),box furnace,borosilicate layer,7.7,6.0,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1300,100,ambient air (stagnant),box furnace,total oxide,32.8,6.3,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1400,100,ambient air (stagnant),box furnace,ZrO2(+C) layer,15.3,13.3,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1400,100,ambient air (stagnant),box furnace,borosilicate layer,22.1,15.3,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1400,100,ambient air (stagnant),box furnace,total oxide,37.5,17.3,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,100,ambient air (stagnant),box furnace,ZrO2(+C) layer,21.9,15.6,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,100,ambient air (stagnant),box furnace,borosilicate layer,27.6,20.5,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,100,ambient air (stagnant),box furnace,total oxide,39.6,26.4,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1550,100,ambient air (stagnant),box furnace,ZrO2(+C) layer,23.2,10.7,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1550,100,ambient air (stagnant),box furnace,borosilicate layer,14.9,6.9,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1550,100,ambient air (stagnant),box furnace,total oxide,38.0,9.9,TABLE mean+-SD,Table 3 PDF p46
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,20,ambient air (stagnant),box furnace (bridge specimen),borosilicate layer,5.5,0.8,TEXT mean+-SD,PDF p37
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,20,ambient air (stagnant),box furnace (bridge specimen),ZrO2(+C) layer,13.1,1.6,TEXT mean+-SD,PDF p37
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,20,flowing dry O2 900 sccm (P_total not stated),resistive heating,borosilicate layer,7.1,0.8,TEXT mean+-SD,PDF p37
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1500,20,flowing dry O2 900 sccm (P_total not stated),resistive heating,ZrO2(+C) layer,11.0,2.1,TEXT mean+-SD,PDF p37
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1800,5,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,43,10,TEXT mean+-SD,Fig 44 caption PDF p85
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1800,15,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,74,6,TEXT mean+-SD,Fig 44 caption PDF p85
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1800,20,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,104,8,TEXT mean+-SD,Fig 44 caption PDF p85
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1800,10,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,66,2 (reading; error bar ~13),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1800,10,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,23,2 (reading; error bar ~6),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1800,15,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,66,2 (reading; error bar ~13),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,10,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,0,2,DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,15,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,22,2 (reading; error bar ~10),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,20,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,31,2 (reading; error bar ~5),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,20,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,8,2,DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,25,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,30,2 (reading; error bar ~9),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,30,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,70,2 (reading; error bar ~18),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,30,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,33,2 (reading; error bar ~9),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,35,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,86,2 (reading; error bar ~7),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,35,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,70,2 (reading; error bar ~18),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,40,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,87,2 (reading; error bar ~16),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1700,40,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,62,2 (reading; error bar ~19),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,35,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,17,2 (reading; error bar ~9),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,45,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,12,2,DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,50,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,45,2 (reading; error bar ~6),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,50,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,0,2,DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,55,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,71,2 (reading; error bar ~11),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,60,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,75,2 (reading; error bar ~5),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1650,70,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,7,2 (reading; error bar ~6),DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1627,60,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,4,2,DIGITIZED,Fig 45 PDF p86
+Shugart2014,Shugart2014_PhD_ZrB2-30SiC_oxidation.md,30,1627,70,flowing dry O2 900 sccm,resistive heating,SiC-depleted layer,113,2 (reading; error bar ~12),DIGITIZED,Fig 45 PDF p86
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1327,100,stagnant air; 10 x 10-min cycles,box furnace (MoSi2 elements),oxide scale (ZrO2 with embedded unoxidized SiC),30,approx. (no SD given),TEXT,p3
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1627,100,stagnant air; 10 x 10-min cycles,bottom-loading ZrO2-element furnace,oxide scale (SiO2 + ZrO2/glass),150,approx. (no SD given),TEXT,p4
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1627,100,stagnant air; 10 x 10-min cycles,bottom-loading ZrO2-element furnace,SiC-depleted layer,100,approx. (no SD given),TEXT,p4
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1927,100,stagnant air; 10 x 10-min cycles,bottom-loading ZrO2-element furnace,oxide scale (no depletion layer),>1000,lower bound,TEXT,p4
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1327,10,stagnant air; 1 x 10-min cycle,box furnace,recession (incl. depleted zone; per face assumed),60,20 (reading),DIGITIZED,Fig 7 p6
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1327,100,stagnant air; 10 x 10-min cycles,box furnace,recession (incl. depleted zone; per face assumed),80,20 (reading),DIGITIZED,Fig 7 p6
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1627,10,stagnant air; 1 x 10-min cycle,ZrO2-element furnace,recession (incl. depleted zone; per face assumed),100,20 (reading),DIGITIZED,Fig 7 p6
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1627,100,stagnant air; 10 x 10-min cycles,ZrO2-element furnace,recession (incl. depleted zone; per face assumed),260,20 (reading),DIGITIZED,Fig 7 p6
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1927,10,stagnant air; 1 x 10-min cycle,ZrO2-element furnace,recession (per face assumed),190,20 (reading),DIGITIZED,Fig 7 p6
+Opila2001,Opila2001_ZrB2-SiC_oxidation_CESP.md,20,1927,100,stagnant air; 10 x 10-min cycles,ZrO2-element furnace,recession (per face assumed),960,20 (reading),DIGITIZED,Fig 7 p6
+Levine2003,Levine2003_NASA-TM-2003-212483_Ta_ZrB2.md,20,1627,100,stagnant air; 10 x 10-min cycles,bottom-loading ZrO2-element furnace,scale + depleted zones (face 1; 13 meas.),258,85,TEXT mean+-SD,p9 [5]
+Levine2003,Levine2003_NASA-TM-2003-212483_Ta_ZrB2.md,20,1627,100,stagnant air; 10 x 10-min cycles,bottom-loading ZrO2-element furnace,scale + depleted zone (face 2; 12 meas.),515,253,TEXT mean+-SD,p9 [5]
+Levine2003,Levine2003_NASA-TM-2003-212483_Ta_ZrB2.md,20,1627,100,stagnant air; 10 x 10-min cycles,bottom-loading ZrO2-element furnace,scale + depleted zones (both faces; 25 meas.),381,224,TEXT mean+-SD,p9 [5]
+Opila2003,Opila2003_TaAdditions_preprint.md,20,1627,100,stagnant air; 10 x 10-min cycles,ZrO2-element furnace,total oxide (SiO2 + ZrO2) at one location,55,3 (reading; single location),DIGITIZED,Fig 4 p26 (scale bar)
+Karlsdottir2007,NOT_OBTAINED_oxidation.md,15,1700,15,UNSURE (table-top self-heated ribbon; ambient air assumed),resistive (ribbon),oxide scale,102,not given,ABSTRACT TEXT,abstract (10.1111/j.1551-2916.2007.01861.x)
+Karlsdottir2007,NOT_OBTAINED_oxidation.md,15,1700,15,UNSURE (table-top self-heated ribbon; ambient air assumed),resistive (ribbon),SiC-depleted zone,120,not given (~),ABSTRACT TEXT,abstract (10.1111/j.1551-2916.2007.01861.x)

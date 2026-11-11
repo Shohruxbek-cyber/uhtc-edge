@@ -1,0 +1,6 @@
+{
+ "B1": {"mach": 8.0, "alt": 35000.0, "R_n": 0.001, "catalysis": "fc",
+        "label": "B1: Mach 8, 35 km, R_n 1 mm\n(glass-loss governed)"},
+ "B2": {"mach": 8.5, "alt": 30000.0, "R_n": 0.001, "catalysis": "fc",
+        "label": "B2: Mach 8.5, 30 km, R_n 1 mm\n(temperature-limit governed)"}
+}

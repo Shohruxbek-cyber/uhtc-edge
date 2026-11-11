@@ -1,0 +1,95 @@
+{
+ "B1_base": {
+  "t_fail": 711.5742549043072,
+  "mode": "glass",
+  "t_glass": 711.5742549043072,
+  "t_active": NaN,
+  "t_limit": NaN,
+  "T_s_max": 2321.4802926711436,
+  "error": ""
+ },
+ "B2_base": {
+  "t_fail": 48.76443061348334,
+  "mode": "temperature",
+  "t_glass": NaN,
+  "t_active": NaN,
+  "t_limit": 48.76443061348334,
+  "T_s_max": 2424.502352363742,
+  "error": ""
+ },
+ "hot_slope": {
+  "t_fail": 410.5746131848264,
+  "mode": "glass",
+  "t_glass": 410.5746131848264,
+  "t_active": NaN,
+  "t_limit": NaN,
+  "T_s_max": 2317.7954922505946,
+  "error": ""
+ },
+ "pore_silica": {
+  "t_fail": 601.5557364674105,
+  "mode": "glass",
+  "t_glass": 601.5557364674105,
+  "t_active": NaN,
+  "t_limit": NaN,
+  "T_s_max": 2321.164114828293,
+  "error": ""
+ },
+ "slab_50mm_B1": {
+  "t_fail": 970.0456461255046,
+  "mode": "glass",
+  "t_glass": 970.0456461255046,
+  "t_active": NaN,
+  "t_limit": NaN,
+  "T_s_max": 2321.6156345319305,
+  "error": ""
+ },
+ "slab_50mm_B2": {
+  "t_fail": 160.02571695461123,
+  "mode": "temperature",
+  "t_glass": NaN,
+  "t_active": NaN,
+  "t_limit": 160.02571695461123,
+  "T_s_max": 2423.637115095049,
+  "error": ""
+ },
+ "numerics_B1": {
+  "baseline": {
+   "t_fail": 711.5742549043072,
+   "mode": "glass",
+   "T_s_max": 2321.4802926711436,
+   "steps": 746
+  },
+  "finest": {
+   "t_fail": 710.7517289408125,
+   "mode": "glass",
+   "T_s_max": 2321.871761747163,
+   "steps": 2103
+  },
+  "rel_diff_t_fail": 0.0011572619945932061
+ },
+ "o2_budget_B1": {
+  "t_glass": 711.5742549043072,
+  "t_range": [
+   10.453155617561384,
+   710.9861554346367
+  ],
+  "demand_mol_m2s": [
+   0.004131742490330777,
+   0.10502650457411661
+  ],
+  "permeation_mol_m2s": [
+   1.9569148595212627e-05,
+   0.29714915073444703
+  ],
+  "demand_over_permeation": [
+   0.013904608107136025,
+   1394.7050722188508,
+   2192.3184639238148
+  ],
+  "gas_supply_over_demand": [
+   150.73516377591656,
+   3831.6006878066864
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+# DIGITIZED from Tauber M.E., NASA TP-2914 (1989), Figure 5 (doc p. 8, PDF p. 12) 'Heat-transfer distribution on hemisphere cylinder' (from Kemp, Rose & Detra 1959). Axes: body angle x/R (deg, linear) vs q/q_s (LOG scale 0.1-1).
+# Method: page rendered at 4x; ticks by pixel scan (0..90 deg at px 103.5..922; q/q_s=1.0 at py 61.5, 0.1 at py 954, 892.5 px/decade); curve value from dark-pixel runs. Reading error +/-0.01 (+/-0.015 where data symbols overlap). Only the region 75-90 deg (tangency of 5-15 deg sphere-cones) was read.
+# Measured data in the figure at 77-87 deg scatter between ~0.12 and ~0.28 (read approximately; not tabulated here). cos column computed, not read.
+body_angle_deg,q_over_qs_KempRoseDetra,q_over_qs_Lees,cos_body_angle,comment
+75,0.25,0.25,0.2588,Kemp and Lees within 0.244-0.260 (two runs)
+80,0.21,0.21,0.1736,curves cross near 80 deg
+85,0.18,0.18,0.08716,curves within line width
+87,0.17,0.185,0.05234,two curves 0.170 and 0.185; which is Kemp and which Lees is UNSURE
+90,0.16,0.18,0,curve ends near 0.16 and 0.18 (at a diamond and a triangle data symbol); assignment to Kemp/Lees UNSURE

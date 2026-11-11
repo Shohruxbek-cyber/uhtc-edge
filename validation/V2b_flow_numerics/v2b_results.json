@@ -1,0 +1,57 @@
+{
+ "passed": true,
+ "results": [
+  {
+   "mach": 8.5,
+   "mode_prod": "none",
+   "mode_fine": "none",
+   "T_prod": 1827.9129415476546,
+   "T_fine": 1827.3208328546846,
+   "dT_rel": 0.00032403105263401066,
+   "t_prod": NaN,
+   "t_fine": NaN,
+   "dt_rel": NaN,
+   "ok": true,
+   "audit": 8.124388709139575e-15
+  },
+  {
+   "mach": 9.0,
+   "mode_prod": "none",
+   "mode_fine": "none",
+   "T_prod": 2007.2977350594772,
+   "T_fine": 2003.2258845576428,
+   "dT_rel": 0.0020326467091023037,
+   "t_prod": NaN,
+   "t_fine": NaN,
+   "dt_rel": NaN,
+   "ok": true,
+   "audit": 4.065834981957437e-15
+  },
+  {
+   "mach": 9.5,
+   "mode_prod": "glass",
+   "mode_fine": "glass",
+   "T_prod": 2264.1202501902712,
+   "T_fine": 2263.9162463675393,
+   "dT_rel": 9.011102908917934e-05,
+   "t_prod": 1388.555087766473,
+   "t_fine": 1399.5655405964258,
+   "dt_rel": 0.007867050531453312,
+   "ok": true,
+   "audit": 2.7326542384930232e-15
+  },
+  {
+   "mach": 10.0,
+   "mode_prod": "glass",
+   "mode_fine": "glass",
+   "T_prod": 2369.568043309608,
+   "T_fine": 2368.969014415744,
+   "dT_rel": 0.0002528648075255102,
+   "t_prod": 200.56269752179008,
+   "t_fine": 202.66997375835953,
+   "dt_rel": 0.010397574921887198,
+   "ok": true,
+   "audit": 1.2123215278414417e-15
+  }
+ ]
+}

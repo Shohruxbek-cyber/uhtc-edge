@@ -1,0 +1,918 @@
+{
+ "overlay": [
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "tangency",
+   "baseline": 0.060962728864523336,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.054703531820773525
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "flank 1/4",
+   "baseline": 0.036504157116348704,
+   "sharpcone": 0.028525610334814,
+   "integral": 0.039768687812588244
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "flank 1/2",
+   "baseline": 0.0309524464142011,
+   "sharpcone": 0.02106070987827726,
+   "integral": 0.03354855769581133
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "flank end",
+   "baseline": 0.02474062792456297,
+   "sharpcone": 0.01523686119967379,
+   "integral": 0.02675680730932619
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "tangency",
+   "baseline": 0.060944607501912114,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.054810000517006074
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "flank 1/4",
+   "baseline": 0.036495683392692,
+   "sharpcone": 0.028652837603967866,
+   "integral": 0.03982329356749922
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "flank 1/2",
+   "baseline": 0.03094602596426717,
+   "sharpcone": 0.021154642894006107,
+   "integral": 0.03359122708093263
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "flank end",
+   "baseline": 0.02473576065828845,
+   "sharpcone": 0.015304819228201759,
+   "integral": 0.026789682852852974
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "tangency",
+   "baseline": 0.06090170467355876,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.05503608806670998
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "flank 1/4",
+   "baseline": 0.03647561649614916,
+   "sharpcone": 0.028941016057868283,
+   "integral": 0.03993996320014333
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "flank 1/2",
+   "baseline": 0.0309308214823344,
+   "sharpcone": 0.0213674075899944,
+   "integral": 0.03368272896049421
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "flank end",
+   "baseline": 0.02472423445978941,
+   "sharpcone": 0.015458748804161026,
+   "integral": 0.026860307161908955
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "tangency",
+   "baseline": 0.042071369575421985,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.036533432487288034
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "flank 1/4",
+   "baseline": 0.02679621318367927,
+   "sharpcone": 0.03093521916429112,
+   "integral": 0.03002679439603892
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "flank 1/2",
+   "baseline": 0.023595643110339876,
+   "sharpcone": 0.022839745344376213,
+   "integral": 0.02616225925291635
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "flank end",
+   "baseline": 0.01918914477869215,
+   "sharpcone": 0.016523945852703732,
+   "integral": 0.021169605257404283
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "tangency",
+   "baseline": 0.042028804558049276,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.036548643111127516
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "flank 1/4",
+   "baseline": 0.026771897702998437,
+   "sharpcone": 0.031073193546215058,
+   "integral": 0.03003548023962768
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "flank 1/2",
+   "baseline": 0.023577170097688116,
+   "sharpcone": 0.022941613048317613,
+   "integral": 0.02616946606913567
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "flank end",
+   "baseline": 0.01917527710556429,
+   "sharpcone": 0.01659764441626856,
+   "integral": 0.021175299832572707
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "tangency",
+   "baseline": 0.04194715302360337,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.03657622308480366
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "flank 1/4",
+   "baseline": 0.026725215708007455,
+   "sharpcone": 0.031385714944537464,
+   "integral": 0.030050278072680642
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "flank 1/2",
+   "baseline": 0.02354170323714372,
+   "sharpcone": 0.02317235035502438,
+   "integral": 0.026181609367671697
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "flank end",
+   "baseline": 0.01914865327902973,
+   "sharpcone": 0.016764576696148822,
+   "integral": 0.021184841413706277
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "tangency",
+   "baseline": 0.03489934108529439,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.029493727088789404
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "flank 1/4",
+   "baseline": 0.02248770571100139,
+   "sharpcone": 0.03276732166688726,
+   "integral": 0.025573592162447416
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "flank 1/2",
+   "baseline": 0.020310657265401124,
+   "sharpcone": 0.024192402792246895,
+   "integral": 0.022772147053985496
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "flank end",
+   "baseline": 0.016729491652365657,
+   "sharpcone": 0.017502557395383433,
+   "integral": 0.018621445062397473
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "tangency",
+   "baseline": 0.034867583039060776,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.029395447568365672
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "flank 1/4",
+   "baseline": 0.022467585646654503,
+   "sharpcone": 0.03291346742167507,
+   "integral": 0.025508114292727733
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "flank 1/2",
+   "baseline": 0.020295243106090006,
+   "sharpcone": 0.024300303492894533,
+   "integral": 0.022720158278314865
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "flank end",
+   "baseline": 0.016717980856271377,
+   "sharpcone": 0.017580620670962353,
+   "integral": 0.01858151562796561
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "tangency",
+   "baseline": 0.034832117660599814,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.029222792713242192
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "flank 1/4",
+   "baseline": 0.022445104865364614,
+   "sharpcone": 0.03324449753761608,
+   "integral": 0.025397433089938557
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "flank 1/2",
+   "baseline": 0.020278019330343542,
+   "sharpcone": 0.024544705949177733,
+   "integral": 0.022633872460470623
+  },
+  {
+   "R_mm": 1.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "flank end",
+   "baseline": 0.01670511903571956,
+   "sharpcone": 0.01775743932165216,
+   "integral": 0.018515985115509212
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "tangency",
+   "baseline": 0.060962728864523336,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.05308806600718302
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "flank 1/4",
+   "baseline": 0.04514507805189446,
+   "sharpcone": 0.0572064345577979,
+   "integral": 0.050299237585903475
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "flank 1/2",
+   "baseline": 0.04389438568252032,
+   "sharpcone": 0.049498367342612995,
+   "integral": 0.048659558800352117
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 20.0,
+   "point": "flank end",
+   "baseline": 0.04165663899574616,
+   "sharpcone": 0.04037636216025392,
+   "integral": 0.04584810478683761
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "tangency",
+   "baseline": 0.060944607501912114,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.053192080017430095
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "flank 1/4",
+   "baseline": 0.045129839330206256,
+   "sharpcone": 0.057461581366626574,
+   "integral": 0.05039129155596101
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "flank 1/2",
+   "baseline": 0.043880590437404395,
+   "sharpcone": 0.04971913534829838,
+   "integral": 0.048743522540317816
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 30.0,
+   "point": "flank end",
+   "baseline": 0.04164494608001133,
+   "sharpcone": 0.040556445048427814,
+   "integral": 0.045920472191534285
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "tangency",
+   "baseline": 0.06090170467355876,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.05341197135688143
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "flank 1/4",
+   "baseline": 0.045093756443578055,
+   "sharpcone": 0.0580395063144375,
+   "integral": 0.05058581822972727
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "flank 1/2",
+   "baseline": 0.04384792562464206,
+   "sharpcone": 0.050219189959013595,
+   "integral": 0.04892129410194727
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 6.0,
+   "alt_km": 40.0,
+   "point": "flank end",
+   "baseline": 0.041617257179965825,
+   "sharpcone": 0.040964345089299685,
+   "integral": 0.04607418657045106
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "tangency",
+   "baseline": 0.042071369575421985,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.03473794171694555
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "flank 1/4",
+   "baseline": 0.028946159822427375,
+   "sharpcone": 0.06203876340880033,
+   "integral": 0.03353740258615705
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "flank 1/2",
+   "baseline": 0.028911422456822815,
+   "sharpcone": 0.05367958210343783,
+   "integral": 0.033293323165300426
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 20.0,
+   "point": "flank end",
+   "baseline": 0.028600520743687345,
+   "sharpcone": 0.04378702498645031,
+   "integral": 0.03260990633650622
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "tangency",
+   "baseline": 0.042028804558049276,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.034751064040597704
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "flank 1/4",
+   "baseline": 0.028909014922492673,
+   "sharpcone": 0.062315462920486196,
+   "integral": 0.03354863004069536
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "flank 1/2",
+   "baseline": 0.028876253795505874,
+   "sharpcone": 0.05391899877358726,
+   "integral": 0.033304184256677714
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 30.0,
+   "point": "flank end",
+   "baseline": 0.02856888969798217,
+   "sharpcone": 0.04398231979515065,
+   "integral": 0.032620098141667685
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "tangency",
+   "baseline": 0.04194715302360337,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.03477427148192945
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "flank 1/4",
+   "baseline": 0.028837752336076473,
+   "sharpcone": 0.06294220621225806,
+   "integral": 0.03356833180385314
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "flank 1/2",
+   "baseline": 0.028808771523793228,
+   "sharpcone": 0.05446129388296516,
+   "integral": 0.03332315076097579
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 9.0,
+   "alt_km": 40.0,
+   "point": "flank end",
+   "baseline": 0.028508181307560814,
+   "sharpcone": 0.044424675874946584,
+   "integral": 0.032637747345536934
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "tangency",
+   "baseline": 0.03489934108529439,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.027617518885278053
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "flank 1/4",
+   "baseline": 0.022657578312677652,
+   "sharpcone": 0.065712937271788,
+   "integral": 0.026747714374053988
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "flank 1/2",
+   "baseline": 0.022896738375550132,
+   "sharpcone": 0.05685869314149851,
+   "integral": 0.02686549950567089
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 20.0,
+   "point": "flank end",
+   "baseline": 0.02310721390453889,
+   "sharpcone": 0.046380260794248215,
+   "integral": 0.026827266719666717
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "tangency",
+   "baseline": 0.034867583039060776,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.027523327339916442
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "flank 1/4",
+   "baseline": 0.02262962733863593,
+   "sharpcone": 0.06600602399137222,
+   "integral": 0.026658716627074548
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "flank 1/2",
+   "baseline": 0.022869720081729022,
+   "sharpcone": 0.05711228898646528,
+   "integral": 0.026779580742335853
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 30.0,
+   "point": "flank end",
+   "baseline": 0.023082132026208922,
+   "sharpcone": 0.04658712171165668,
+   "integral": 0.026747376671457605
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "tangency",
+   "baseline": 0.034832117660599814,
+   "sharpcone": 0.08715574274765814,
+   "integral": 0.027357610553127302
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "flank 1/4",
+   "baseline": 0.022598411971629446,
+   "sharpcone": 0.06666988542823438,
+   "integral": 0.026503291673957877
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "flank 1/2",
+   "baseline": 0.022839544750903506,
+   "sharpcone": 0.057686700895202545,
+   "integral": 0.026630163492787403
+  },
+  {
+   "R_mm": 10.0,
+   "mach": 12.0,
+   "alt_km": 40.0,
+   "point": "flank end",
+   "baseline": 0.023054114046647683,
+   "sharpcone": 0.04705567581760943,
+   "integral": 0.02660957779249056
+  }
+ ],
+ "anchor": [
+  {
+   "s_over_R": 1.939,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.104,
+   "baseline": 0.1063,
+   "integral": 0.11380726668085686,
+   "sharpcone": 0.17279200445130283,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 2.85,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0845,
+   "baseline": 0.1002,
+   "integral": 0.10643991938624509,
+   "sharpcone": 0.14252469397568412,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 3.751,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0704,
+   "baseline": 0.0943,
+   "integral": 0.09978601243169428,
+   "sharpcone": 0.12423358422606798,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 5.573,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.061,
+   "baseline": 0.0843,
+   "integral": 0.08884179350642125,
+   "sharpcone": 0.10192202076501225,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 9.207,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0563,
+   "baseline": 0.0706,
+   "integral": 0.07423617424282535,
+   "sharpcone": 0.07929640082117845,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 11.03,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0518,
+   "baseline": 0.0658,
+   "integral": 0.06911501184084957,
+   "sharpcone": 0.0724477314444474,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 12.85,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0516,
+   "baseline": 0.0618,
+   "integral": 0.0649162830579832,
+   "sharpcone": 0.06712139645040152,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 14.66,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0516,
+   "baseline": 0.0585,
+   "integral": 0.061410082655215754,
+   "sharpcone": 0.06284135806729522,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 16.48,
+   "Re_per_ft": "0.4e6",
+   "measured": 0.0516,
+   "baseline": 0.0556,
+   "integral": 0.05839711882322965,
+   "sharpcone": 0.059269865744880273,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 1.939,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.122,
+   "baseline": 0.1063,
+   "integral": 0.11380726668085686,
+   "sharpcone": 0.17279200445130283,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 2.85,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0968,
+   "baseline": 0.1002,
+   "integral": 0.10643991938624509,
+   "sharpcone": 0.14252469397568412,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 3.751,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0775,
+   "baseline": 0.0943,
+   "integral": 0.09978601243169428,
+   "sharpcone": 0.12423358422606798,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 5.573,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0692,
+   "baseline": 0.0843,
+   "integral": 0.08884179350642125,
+   "sharpcone": 0.10192202076501225,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 9.207,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0664,
+   "baseline": 0.0706,
+   "integral": 0.07423617424282535,
+   "sharpcone": 0.07929640082117845,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 11.03,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0636,
+   "baseline": 0.0658,
+   "integral": 0.06911501184084957,
+   "sharpcone": 0.0724477314444474,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 12.85,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0581,
+   "baseline": 0.0618,
+   "integral": 0.0649162830579832,
+   "sharpcone": 0.06712139645040152,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 14.66,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0581,
+   "baseline": 0.0585,
+   "integral": 0.061410082655215754,
+   "sharpcone": 0.06284135806729522,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 16.48,
+   "Re_per_ft": "1.2e6",
+   "measured": 0.0554,
+   "baseline": 0.0556,
+   "integral": 0.05839711882322965,
+   "sharpcone": 0.059269865744880273,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 1.939,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.122,
+   "baseline": 0.1063,
+   "integral": 0.11380726668085686,
+   "sharpcone": 0.17279200445130283,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 2.85,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.101,
+   "baseline": 0.1002,
+   "integral": 0.10643991938624509,
+   "sharpcone": 0.14252469397568412,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 3.751,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0859,
+   "baseline": 0.0943,
+   "integral": 0.09978601243169428,
+   "sharpcone": 0.12423358422606798,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 5.573,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0752,
+   "baseline": 0.0843,
+   "integral": 0.08884179350642125,
+   "sharpcone": 0.10192202076501225,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 9.207,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0646,
+   "baseline": 0.0706,
+   "integral": 0.07423617424282535,
+   "sharpcone": 0.07929640082117845,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 11.03,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0645,
+   "baseline": 0.0658,
+   "integral": 0.06911501184084957,
+   "sharpcone": 0.0724477314444474,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 12.85,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0645,
+   "baseline": 0.0618,
+   "integral": 0.0649162830579832,
+   "sharpcone": 0.06712139645040152,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 14.66,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0645,
+   "baseline": 0.0585,
+   "integral": 0.061410082655215754,
+   "sharpcone": 0.06284135806729522,
+   "on_flank": true
+  },
+  {
+   "s_over_R": 16.48,
+   "Re_per_ft": "1.8e6",
+   "measured": 0.0601,
+   "baseline": 0.0556,
+   "integral": 0.05839711882322965,
+   "sharpcone": 0.059269865744880273,
+   "on_flank": true
+  }
+ ],
+ "ratios_to_baseline": {
+  "sharpcone": [
+   0.61586396457409,
+   2.9502022315520775
+  ],
+  "integral": [
+   1.08149265212309,
+   1.180519559722222
+  ],
+  "measured": [
+   0.7236061684460261,
+   1.147695202257761
+  ]
+ },
+ "recommendation": {
+  "narrow": false,
+  "band": null,
+  "reason": [
+   "sharpcone"
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+# DIGITIZED from Kajihara, Miura, Kamioka, Hirano, Skuja, Hosono, J. Ceram. Soc. Japan 112 [10] (2004) 559-562, Fig. 4 (p. 561):
+# Arrhenius plot of (a) diffusion coefficient D and (b) solubility S of interstitial O2 in SiO2 glass; open symbols are literature data the authors re-plotted ('Data taken from Refs. 3) and 19)':
+# ref 3 = F. J. Norton, Nature 191 (1961) 701; ref 19 = G. Hetherington, K. H. Jack, Phys. Chem. Glasses 5 (1964) 147-149).
+# Source raster: PDF page 3 rendered at zoom 5 (PyMuPDF), clips x 0.52-0.92, y 0.37-0.56 (a) and 0.565-0.75 (b) of the page.
+# Calibration from frame lines (frame = axis limits): (a) 1000/T px 182->0.7, 1100.5->1.0; log10 D px 79.5->-7, 712.5->-9.
+# (b) 1000/T px 185.5->0.7, 1101.5->1.0; log10 S px 82.5->18, 716.5->16. Marker centres = bounding-box centres of the marker outline.
+# Reading uncertainty about +/-0.01 in log10 and +/-0.001 in 1000/T; temperatures are as read from the plot (Kajihara does not list them).
+# These are Norton's values as re-plotted by Kajihara (secondary); Norton 1961 itself was not obtained (paywalled).
+source,quantity,units,inv_T_1000_per_K,T_K,T_C,log10_value,value
+Norton1961 (open square),D,cm2/s,0.7403,1351,1078,-7.919,1.2e-08
+Norton1961 (open square),D,cm2/s,0.8174,1223,950,-8.381,4.16e-09
+Hetherington&Jack1964 (open circle),D,cm2/s,0.7559,1323,1050,-8.011,9.75e-09
+Norton1961 (open square),S,cm-3 atm-1,0.7401,1351,1078,16.710,5.13e+16
+Norton1961 (open square),S,cm-3 atm-1,0.8172,1224,950,16.793,6.21e+16
+Kajihara2004 average at 1100 C (filled circle; excluded from their S fit),S,cm-3 atm-1,0.7283,1373,1100,16.401,2.52e+16

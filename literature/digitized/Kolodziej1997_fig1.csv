@@ -1,0 +1,15 @@
+# Kolodziej (1997) NASA TM-112204, Figure 1 (doc p. 3, PDF p. 7): aerothermal performance constraint, 2-D stagnation point,
+# R_N = 0.76 mm, T_max = 2149 C, emissivity 0.80. Raster (scanned) figure. DIGITIZED: rendered at 300 dpi; vertical grid lines
+# (1 km/s spacing) located by pixel darkness (x = 225.5, 387.5, 553.0, 714.5, 877.5, 1043.5, 1209.5, 1370.5, 1533.0 px for 0..8 km/s);
+# marker centres = centroid of dark pixels in a 19x19 px window; markers lie at the computed altitudes 50, 55, ... km.
+# Velocity by linear interpolation between the bracketing grid lines. Reading uncertainty about +/-0.05 km/s.
+curve,altitude_km,velocity_km_s
+FCHW,50,3.04
+FCHW,60,3.43
+FCHW,65,3.68
+FCHW,70,4.01
+NCHW,50,3.23
+NCHW,55,3.55
+NCHW,60,3.82
+NCHW,65,4.12
+NCHW,70,4.56

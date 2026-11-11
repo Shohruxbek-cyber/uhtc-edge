@@ -1,0 +1,163 @@
+{
+ "n_flow_points": 1008,
+ "n_paired_grid": 945,
+ "errors": [],
+ "radii": {
+  "1": {
+   "columns": 21,
+   "shifts": {
+    "0.0": 18,
+    "-1.0": 3
+   },
+   "mode_change": {
+    "glass->glass": 21
+   },
+   "shifted": [
+    {
+     "alt": 22.0,
+     "base": 8.75,
+     "flow": 8.5,
+     "mode": "glass->glass"
+    },
+    {
+     "alt": 28.0,
+     "base": 9.25,
+     "flow": 9.0,
+     "mode": "glass->glass"
+    },
+    {
+     "alt": 33.0,
+     "base": 9.75,
+     "flow": 9.5,
+     "mode": "glass->glass"
+    }
+   ],
+   "dt_at_old_pct_range": [
+    -31.5922469967297,
+    -0.9716773010901569
+   ],
+   "paired_points": 315,
+   "outcome_changes": {},
+   "dt_fail_pct_range_both_fail": [
+    -25.12335545819101,
+    36.244005683303705
+   ],
+   "dt_fail_pct_median_both_fail": 0.0029874399374518745,
+   "dt_glass_pct_range": [
+    -25.12335545819101,
+    -0.3550654685652188
+   ],
+   "n_glass_both": 35,
+   "nonmono_flow": 0,
+   "nonmono_base": 0,
+   "dt_at_old_glass_pct_range": [
+    -31.5922469967297,
+    -0.9716773010901569
+   ],
+   "n_glass_cols": 21,
+   "dt_at_old_temperature_pct_range": [
+    null,
+    null
+   ],
+   "n_temperature_cols": 0
+  },
+  "3": {
+   "columns": 21,
+   "shifts": {
+    "-1.0": 2,
+    "0.0": 19
+   },
+   "mode_change": {
+    "temperature->glass": 2,
+    "glass->glass": 19
+   },
+   "shifted": [
+    {
+     "alt": 20.0,
+     "base": 9.0,
+     "flow": 8.75,
+     "mode": "temperature->glass"
+    },
+    {
+     "alt": 38.0,
+     "base": 10.75,
+     "flow": 10.5,
+     "mode": "glass->glass"
+    }
+   ],
+   "dt_at_old_pct_range": [
+    -24.085844399409485,
+    -1.6488301152054796
+   ],
+   "paired_points": 315,
+   "outcome_changes": {
+    "none->glass": 1
+   },
+   "dt_fail_pct_range_both_fail": [
+    -16.5407627635473,
+    165.04001004722437
+   ],
+   "dt_fail_pct_median_both_fail": 0.004151345529046502,
+   "dt_glass_pct_range": [
+    -16.5407627635473,
+    -0.5824885809797786
+   ],
+   "n_glass_both": 20,
+   "nonmono_flow": 0,
+   "nonmono_base": 0,
+   "dt_at_old_glass_pct_range": [
+    -23.486446954281547,
+    -1.6488301152054796
+   ],
+   "n_glass_cols": 19,
+   "dt_at_old_temperature_pct_range": [
+    null,
+    null
+   ],
+   "n_temperature_cols": 0
+  },
+  "10": {
+   "columns": 21,
+   "shifts": {
+    "0.0": 21
+   },
+   "mode_change": {
+    "temperature->temperature": 10,
+    "glass->glass": 11
+   },
+   "shifted": [],
+   "dt_at_old_pct_range": [
+    -14.71957507762629,
+    222.02164621283976
+   ],
+   "paired_points": 315,
+   "outcome_changes": {},
+   "dt_fail_pct_range_both_fail": [
+    -14.71957507762629,
+    222.02164621283976
+   ],
+   "dt_fail_pct_median_both_fail": 0.00426013927661284,
+   "dt_glass_pct_range": [
+    -7.310820028779597,
+    -0.7005437777666379
+   ],
+   "n_glass_both": 8,
+   "nonmono_flow": 0,
+   "nonmono_base": 0,
+   "dt_at_old_glass_pct_range": [
+    -10.372728904241146,
+    -1.0873300775513517
+   ],
+   "n_glass_cols": 11,
+   "dt_at_old_temperature_pct_range": [
+    -14.71957507762629,
+    222.02164621283976
+   ],
+   "n_temperature_cols": 10
+  }
+ },
+ "band_stage_crosscheck": {
+  "shared": 45,
+  "identical": 45
+ }
+}

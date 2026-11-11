@@ -1,0 +1,27 @@
+{
+  "title": "Code and data for: Oxidation and temperature limits of sharp ZrB2-SiC nose tips in hypersonic flight",
+  "upload_type": "software",
+  "description": "Low-order coupled thermal and oxidation model of sharp ZrB2-SiC nose tips in hypersonic flight, with saved run outputs, validation reports and figure scripts. The furnace, arc-jet and plasmatron validation checks fail their criteria. With the fully catalytic bound the model is a conservative screening tool for surface temperature under ground-test conditions, untested for flight.",
+  "creators": [
+    {
+      "name": "Bozorov, Shohruxbek",
+      "orcid": "0009-0005-5165-093X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ultra-high-temperature ceramics",
+    "ZrB2-SiC",
+    "oxidation",
+    "stagnation-point heating",
+    "hypersonic flight"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Shohruxbek-cyber/uhtc-edge",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open"
+}

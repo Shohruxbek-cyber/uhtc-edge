@@ -1,0 +1,40 @@
+# DIGITIZED (vector) from Shugart 2014 PhD dissertation (UVA), Fig. 40, PDF p. 81 [printed p. 66]: "Oxidation conditions for SiC depletion in ZrB2-30 vol% SiC."
+# Caption: all exposures T<=1550 C in stagnant air (box furnace); all exposures T>1550 C in 900 sccm flowing O2 (resistive heating). Source PDF: literature/pdf/Shugart2014_PhD_ZrB2-30SiC_oxidation.pdf
+# Method: marker centres taken from the PDF vector drawing objects (pymupdf get_drawings). Calibration: labelled x ticks 1300..1800 C at page x = 158.5..436.8 pt (55.66 pt per 100 C);
+#   labelled y ticks 0..100 min at page y = 580.2..384.1 pt (1.961 pt per min). Reading uncertainty ~ +/-1 C and +/-0.3 min (markers are exact vector positions); duplicated/overlapping markers merged.
+# Marker classes from the legend: green open triangle = NoDepletion, blue crossed circle = PartialDepletion, orange filled square = FullDepletion.
+# Exposures longer than the 110-min axis (e.g. 100 h at 1500 C, stated on p. 79 [64]) are not in this figure.
+# t_min_read = position of the marker bounding-box centre. Open-triangle markers sit a constant ~0.7-0.8 min below the nominal times stated in the text (10, 20, 50, 55, 100 min; pp. 64-65, 68),
+#   which is a marker-anchor offset; t_min_nominal = nearest 5-min value (our rounding, consistent with the test times named in the text and in Fig. 45).
+# 1500 C / 20 min carries two overlapping triangles (t_read 18.3 and 19.3 min; two specimens), merged into one row. Used in notes/SiC_depletion_incubation.md.
+T_C,t_min_read,t_min_nominal,class,page_x_pt,page_y_pt
+1300,9.2,10,NoDepletion (green open triangle),158.45,562.11
+1300,49.2,50,NoDepletion (green open triangle),158.45,483.69
+1300,99.2,100,NoDepletion (green open triangle),158.45,385.60
+1500,9.2,10,NoDepletion (green open triangle),269.71,562.11
+1500,18.3,20,NoDepletion (green open triangle),269.71,544.40
+1500,49.2,50,NoDepletion (green open triangle),269.71,483.69
+1500,99.2,100,NoDepletion (green open triangle),269.71,385.60
+1600,54.3,55,NoDepletion (green open triangle),325.47,473.79
+1627,40.0,40,PartialDepletion (blue crossed circle),340.45,501.71
+1627,60.0,60,PartialDepletion (blue crossed circle),340.45,462.50
+1627,70.1,70,FullDepletion (orange filled square),340.45,442.83
+1650,9.2,10,NoDepletion (green open triangle),353.22,562.11
+1650,20.0,20,PartialDepletion (blue crossed circle),353.22,540.92
+1650,35.0,35,FullDepletion (orange filled square),353.22,511.48
+1650,45.0,45,FullDepletion (orange filled square),353.22,491.93
+1650,50.0,50,FullDepletion (orange filled square),353.22,482.16
+1650,55.0,55,FullDepletion (orange filled square),353.22,472.27
+1650,60.0,60,FullDepletion (orange filled square),353.22,462.50
+1650,70.1,70,FullDepletion (orange filled square),353.22,442.83
+1700,9.2,10,NoDepletion (green open triangle),381.10,562.11
+1700,15.0,15,PartialDepletion (blue crossed circle),381.10,550.81
+1700,20.0,20,PartialDepletion (blue crossed circle),381.10,540.92
+1700,25.0,25,PartialDepletion (blue crossed circle),381.10,531.14
+1700,30.0,30,FullDepletion (orange filled square),381.10,521.37
+1700,35.0,35,FullDepletion (orange filled square),381.10,511.48
+1700,40.0,40,FullDepletion (orange filled square),381.10,501.71
+1800,5.0,5,FullDepletion (orange filled square),436.73,570.35
+1800,10.0,10,FullDepletion (orange filled square),436.73,560.58
+1800,15.0,15,FullDepletion (orange filled square),436.73,550.81
+1800,20.0,20,FullDepletion (orange filled square),436.73,540.92

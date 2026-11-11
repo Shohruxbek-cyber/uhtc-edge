@@ -1,0 +1,112 @@
+{
+ "passed": true,
+ "n": 12,
+ "n_ok": 12,
+ "max_rel_err": 0.006843285801465157,
+ "audit_max": 1.7386541545781268e-14,
+ "results": [
+  {
+   "check": "1 shear",
+   "point": "t = 2 t_head",
+   "value": 1.0032073757843278e-05,
+   "exact": 1e-05,
+   "rel_err": 0.003207375784327685,
+   "ok": true
+  },
+  {
+   "check": "1 shear",
+   "point": "t = 4 t_head",
+   "value": 5.028488196110849e-06,
+   "exact": 5e-06,
+   "rel_err": 0.005697639222169685,
+   "ok": true
+  },
+  {
+   "check": "1 shear",
+   "point": "t = 8 t_head",
+   "value": 2.517108214503663e-06,
+   "exact": 2.5e-06,
+   "rel_err": 0.006843285801465157,
+   "ok": true
+  },
+  {
+   "check": "1b pressure",
+   "point": "t = 2 t_head",
+   "value": 1.4134833892316973e-05,
+   "exact": 1.4142135623730953e-05,
+   "rel_err": 0.0005163103797228165,
+   "ok": true
+  },
+  {
+   "check": "1b pressure",
+   "point": "t = 4 t_head",
+   "value": 1.0007882966728049e-05,
+   "exact": 1e-05,
+   "rel_err": 0.0007882966728048323,
+   "ok": true
+  },
+  {
+   "check": "1b pressure",
+   "point": "t = 8 t_head",
+   "value": 7.081502638070587e-06,
+   "exact": 7.071067811865476e-06,
+   "rel_err": 0.001475707274027354,
+   "ok": true
+  },
+  {
+   "check": "2 steady, explicit",
+   "point": "s = 0.25 L",
+   "value": 2.2319418455898375e-05,
+   "exact": 2.23606797749979e-05,
+   "rel_err": 0.0018452622869570227,
+   "ok": true
+  },
+  {
+   "check": "2 steady, explicit",
+   "point": "s = 0.5 L",
+   "value": 3.1578224002429976e-05,
+   "exact": 3.1622776601683795e-05,
+   "rel_err": 0.0014088768932278754,
+   "ok": true
+  },
+  {
+   "check": "2 steady, explicit",
+   "point": "s = 1 L",
+   "value": 4.4668889210679244e-05,
+   "exact": 4.47213595499958e-05,
+   "rel_err": 0.0011732724551430406,
+   "ok": true
+  },
+  {
+   "check": "2 steady, implicit",
+   "point": "s = 0.25 L",
+   "value": 2.2321957463336028e-05,
+   "exact": 2.23606797749979e-05,
+   "rel_err": 0.0017317144224376414,
+   "ok": true
+  },
+  {
+   "check": "2 steady, implicit",
+   "point": "s = 0.5 L",
+   "value": 3.158075212898404e-05,
+   "exact": 3.1622776601683795e-05,
+   "rel_err": 0.0013289305119879556,
+   "ok": true
+  },
+  {
+   "check": "2 steady, implicit",
+   "point": "s = 1 L",
+   "value": 4.4671409637458306e-05,
+   "exact": 4.47213595499958e-05,
+   "rel_err": 0.001116913999040113,
+   "ok": true
+  }
+ ],
+ "grid": {
+  "R": 0.001,
+  "L": 0.01,
+  "N": 2000,
+  "mu": 10000.0
+ },
+ "tolerance": 0.01
+}

@@ -1,0 +1,17 @@
+# Kim, Kwon, Oh, Lee, Kim (2012), J. Korean Powder Metall. Inst. 19(5):379-384, doi 10.4150/kpmi.2012.19.5.379
+# Fig. 8 (PDF p. 6): thermal conductivity of SPS ZrB2-x vol% SiC (x = 10, 20, 30), (a) submicron SiC, (b) nano-sized SiC
+# DIGITIZED by eye from a 300 dpi render (2 Nov 2026); reading uncertainty about +-0.7 W/m/K (nano-SiC points at 25-100 C overlap; +-1); T as plotted (deg C)
+# k = D * rho * cp; cp from NIST-JANAF rule of mixtures (paper Fig. 6); not measured cp
+T_C,k_sub10,k_sub20,k_sub30,k_nano10,k_nano20,k_nano30
+25,42.6,46.2,54.3,46.8,44.0,45.5
+50,42.0,45.2,53.4,47.0,45.3,45.4
+100,47.6,50.4,60.5,53.0,51.3,52.4
+200,48.0,51.0,58.4,53.4,51.9,52.3
+300,49.3,50.8,57.8,54.2,51.9,51.7
+400,50.0,50.6,57.3,54.3,51.6,51.4
+500,51.2,50.8,55.7,54.8,51.9,51.4
+600,50.3,50.3,55.6,55.2,51.5,50.8
+700,51.5,49.9,55.2,55.2,51.3,50.4
+800,51.8,50.1,53.5,55.4,51.1,49.9
+900,52.0,50.1,52.9,55.4,50.8,49.0
+1000,51.6,49.4,52.6,55.2,50.6,48.4

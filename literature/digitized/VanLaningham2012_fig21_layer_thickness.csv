@@ -1,0 +1,130 @@
+# DIGITIZED (vector) from Van Laningham, PhD thesis, Georgia Tech 2012 (hdl 1853/43596), Fig. 21, PDF p. 72 [printed p. 55]: "Thicknesses of various layers, as measured in the SEM, of oxidation-altered ZrB2-based ceramics."
+# Exposure: isothermal soak in flowing dry air (0.1 L/min, ~1 atm), vertical ZrO2-tube TGA furnace, pressureless-sintered + HIPed pellets ~5.3 mm dia x 3-4 mm, resting on ZrO2 chips in a ZrO2 crucible (Ch. III, PDF pp. 44-48).
+# Time: TG soaks were 100 min (Fig. 12 caption, PDF p. 63); the micrograph captions (Figs. 14-20) say "~90 min". t_min below = 100 (UNSURE: 90-100 min). Compositions contain 5-9 vol% B4C (Table 2, PDF p. 45).
+# Series from the legend: glass layers (dashed): circle=Top, right-triangle=Side, left-pointing triangle=Bottom; oxide layers (solid, ZrO2 + silicate): square=Top, down-triangle=Side, right-pointing triangle=Bottom;
+#   SiC-depleted layers (dotted): diamond=Top, up-triangle=Side, right-triangle(other orientation)=Bottom. Marker shapes classified from vector vertices (orientations as drawn on the rotated page).
+# Calibration: thickness zero = panel right frame x = 422.33 pt; scale from labelled ticks per panel (pt/um: ZBS2 0.1127, ZBS10 0.5793, ZBS26 0.2897, ZBS-Ta 1.448); temperature from tick labels 1600-1900 C.
+# Reading uncertainty (marker centre + calibration): ZBS2 +/-5 um, ZBS10 +/-1 um, ZBS26 +/-2 um, ZBS-Ta +/-0.5 um. Values of ~0 mean the marker sits on the zero axis (layer absent or not resolved).
+# Note: text p. 41 says SiC-depleted regions "are not visually apparent until oxidation temperatures of 1700 C", but the figure plots non-zero depleted thicknesses at 1600 C for ZBS2 and ZBS10 (UNSURE which is right).
+specimen,composition,SiC_vol_pct,T_C,t_min,layer,position,thickness_um,reading_unc_um,page_x_pt,page_y_pt
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,glass,Side,18.8,0.5,395.14,203.85
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,glass,Top,14.8,0.5,400.96,203.21
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,SiC-depleted,Side,0.0,0.5,422.65,203.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,SiC-depleted,Top,0.0,0.5,422.65,203.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,glass,Bottom,19.7,0.5,393.79,203.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,oxide,Bottom,42.8,0.5,360.29,203.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,oxide,Side,36.2,0.5,369.83,203.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,oxide,Top,32.7,0.5,375.02,203.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1600,100,SiC-depleted,Bottom,0.0,0.5,422.65,202.48
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,glass,Side,34.8,0.5,371.94,169.84
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,glass,Top,54.7,0.5,343.04,169.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,SiC-depleted,Side,44.3,0.5,358.18,169.12
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,SiC-depleted,Top,59.8,0.5,335.65,169.12
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,glass,Bottom,34.8,0.5,371.94,169.12
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,oxide,Bottom,29.8,0.5,379.19,169.12
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,oxide,Side,40.3,0.5,364.01,169.12
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,oxide,Top,67.7,0.5,324.3,169.08
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1700,100,SiC-depleted,Bottom,34.8,0.5,371.94,168.44
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,glass,Side,27.3,0.5,382.82,135.84
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,glass,Top,19.7,0.5,393.75,135.16
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,SiC-depleted,Side,44.8,0.5,357.51,135.07
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,SiC-depleted,Top,34.8,0.5,371.94,135.07
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,glass,Bottom,29.8,0.5,379.19,135.07
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,oxide,Bottom,119.7,0.5,248.91,135.07
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,oxide,Side,44.8,0.5,357.51,135.07
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,oxide,Top,49.7,0.5,350.33,135.03
+ZBS-Ta,"27.91 mol% SiC + 3.32 mol% TaB2 (vol%: ZrB2 68.79, B4C 7.25, SiC 20.45, TaB2 3.51)",20.45,1800,100,SiC-depleted,Bottom,49.7,0.5,350.29,134.39
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,glass,Side,26.4,1,407.01,483.19
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,glass,Top,10.5,1,416.25,482.55
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,SiC-depleted,Side,15.2,1,413.55,482.51
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,SiC-depleted,Top,10.3,1,416.34,482.51
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,glass,Bottom,26.4,1,407.01,482.51
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,oxide,Bottom,43.1,1,397.35,482.51
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,oxide,Side,43.1,1,397.35,482.51
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,oxide,Top,50.0,1,393.34,482.51
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1600,100,SiC-depleted,Bottom,10.3,1,416.34,481.83
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,glass,Side,57.7,1,388.91,449.19
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,glass,Top,60.2,1,387.43,448.5
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,SiC-depleted,Side,55.4,1,390.26,448.46
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,SiC-depleted,Top,60.2,1,387.48,448.46
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,glass,Bottom,39.2,1,399.63,448.46
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,oxide,Bottom,161.4,1,328.83,448.46
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,oxide,Side,65.4,1,384.44,448.46
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,oxide,Top,40.0,1,399.16,448.42
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1700,100,SiC-depleted,Bottom,54.3,1,390.85,447.78
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,glass,Side,22.1,1,409.5,415.18
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,glass,Top,26.5,1,406.97,414.5
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,SiC-depleted,Side,89.3,1,370.6,414.42
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,SiC-depleted,Top,56.2,1,389.76,414.42
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,oxide,Bottom,304.2,1,246.13,414.42
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,oxide,Side,41.4,1,398.36,414.42
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,oxide,Top,51.4,1,392.58,414.37
+ZBS10,"29.70 mol% SiC (vol%: ZrB2 70.30, B4C 7.82, SiC 21.88)",21.88,1800,100,SiC-depleted,Bottom,174.4,1,321.28,413.74
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,glass,Side,10.0,5,421.2,624.83
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,glass,Top,10.0,5,421.2,624.19
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,SiC-depleted,Side,50.4,5,416.65,624.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,SiC-depleted,Top,50.4,5,416.65,624.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,glass,Bottom,0.3,5,422.3,624.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,oxide,Bottom,195.7,5,400.28,624.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,oxide,Side,100.7,5,410.99,624.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,oxide,Top,99.9,5,411.08,624.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1600,100,SiC-depleted,Bottom,50.4,5,416.65,623.47
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,glass,Side,16.0,5,420.53,590.83
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,glass,Top,0.6,5,422.26,590.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,SiC-depleted,Side,40.7,5,417.74,590.11
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,SiC-depleted,Top,40.7,5,417.74,590.11
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,glass,Bottom,0.3,5,422.3,590.11
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,oxide,Bottom,545.6,5,360.87,590.11
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,oxide,Side,395.8,5,377.74,590.11
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1700,100,oxide,Top,611.2,5,353.48,590.06
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,glass,Side,0.3,5,422.3,556.83
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,glass,Top,0.6,5,422.26,556.15
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,SiC-depleted,Side,109.6,5,409.98,556.06
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,SiC-depleted,Top,147.1,5,405.76,556.06
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,glass,Bottom,0.3,5,422.3,556.06
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,oxide,Bottom,1111.1,5,297.16,556.06
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,oxide,Side,820.5,5,329.9,556.06
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,oxide,Top,470.7,5,369.31,556.02
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1800,100,SiC-depleted,Bottom,144.1,5,406.1,555.38
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,glass,Side,0.3,5,422.3,522.78
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,SiC-depleted,Side,172.6,5,402.89,522.1
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,SiC-depleted,Top,267.7,5,392.17,522.1
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,glass,Bottom,0.3,5,422.3,522.1
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,glass,Top,0.6,5,422.26,522.1
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,oxide,Bottom,1667.7,5,234.46,522.1
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,oxide,Side,1111.1,5,297.16,522.1
+ZBS2,"15.34 mol% SiC (vol%: ZrB2 80.35, B4C 8.94, SiC 10.71)",10.71,1900,100,oxide,Top,667.3,5,347.16,522.02
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,glass,Side,10.0,2,419.43,343.24
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,glass,Top,0.4,2,422.21,342.6
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,SiC-depleted,Top,0.2,2,422.26,342.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,glass,Bottom,0.2,2,422.26,342.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,oxide,Bottom,0.2,2,422.26,342.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,oxide,Side,20.4,2,416.43,342.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,oxide,Top,12.4,2,418.75,342.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1600,100,SiC-depleted,Bottom,20.4,2,416.43,341.87
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,glass,Side,12.5,2,418.71,309.23
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,glass,Top,55.2,2,406.35,308.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,SiC-depleted,Side,40.5,2,410.61,308.51
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,SiC-depleted,Top,65.2,2,403.44,308.51
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,glass,Bottom,0.2,2,422.26,308.51
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,oxide,Bottom,99.9,2,393.4,308.51
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,oxide,Side,50.1,2,407.83,308.51
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,oxide,Top,0.1,2,422.3,308.47
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1700,100,SiC-depleted,Bottom,70.2,2,402.0,307.83
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,glass,Side,15.4,2,417.87,275.23
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,glass,Top,100.0,2,393.35,274.55
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,SiC-depleted,Side,45.3,2,409.22,274.46
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,SiC-depleted,Top,90.3,2,396.18,274.46
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,glass,Bottom,20.4,2,416.43,274.46
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,oxide,Bottom,60.0,2,404.96,274.46
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,oxide,Side,30.0,2,413.65,274.46
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,oxide,Top,9.7,2,419.51,274.42
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1800,100,SiC-depleted,Bottom,90.3,2,396.18,273.78
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,glass,Side,110.4,2,390.36,241.18
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,SiC-depleted,Side,163.7,2,374.92,240.5
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,SiC-depleted,Top,391.0,2,309.06,240.5
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,glass,Top,65.3,2,403.4,240.5
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,oxide,Bottom,696.2,2,220.66,240.5
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,oxide,Side,30.0,2,413.65,240.5
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,oxide,Top,477.9,2,283.91,240.42
+ZBS26,"58.92 mol% SiC (vol%: ZrB2 46.15, B4C 5.14, SiC 48.71)",48.71,1900,100,SiC-depleted,Bottom,304.1,2,334.24,239.74

@@ -1,0 +1,11 @@
+# DIGITIZED from J. Schlichting, Glastech. Ber. 55 (1982) 167-170, Bild 4 (p. 169): 'Konzentrationsabhaengigkeit der Sauerstoffdiffusionskoeffizienten (Werte fuer 750 C)'; B2O3/SiO2 triangles only.
+# Source raster: PDF page 3 rendered at zoom 4, clip x 0.50-0.96, y 0.46-0.72. x calibration from vertical grid lines (20, 50, 70, 90, 100 %; 7.936 px per %).
+# y calibration from horizontal grid lines at 1e-7, 1e-9, 1e-11, 1e-13 (60.9 px/decade). The bottom frame is labelled 10^-14 but sits two decades below the 1e-13 grid line;
+# the label is treated as a drafting error (bottom = 1e-15), consistent with Bild 3 where SiO2 at 750 C is ~1.9e-15 (UNSURE). The x-axis caption says 'GeO2 in %' but applies to both curves.
+# Nominal compositions (1, 5, 20, 30, 100 mol% B2O3) assumed from Bild 2/3 labels; the 100 % point is pure B2O3 (Tokuda data, ref 32). Reading uncertainty about +/-0.03 in log10 D and +/-1 mol%.
+nominal_mol_pct_B2O3,read_mol_pct,log10_D_cm2_s,D_cm2_s
+1,1.7,-10.524,2.99e-11
+5,5.8,-9.760,1.74e-10
+20,19.4,-9.136,7.32e-10
+30,29.4,-8.906,1.24e-09
+100,98.2,-8.561,2.75e-09

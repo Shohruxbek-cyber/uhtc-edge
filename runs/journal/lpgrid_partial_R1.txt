@@ -1,0 +1,8 @@
+runs read: 365 errors: 0
+columns touched: 25 [('fc', 20.0), ('fc', 21.0), ('fc', 22.0)] ...
+  ('fc', 'same outcome') 315
+  ('nc', 'same outcome') 50
+first-failure mode baseline -> local pressure: {('temperature', 'temperature'): 100, ('glass', 'temperature'): 1, ('glass', 'glass'): 37}
+failure time change, failing in both: n=138, min -15.98 %, median -1.35 %, max -0.05 %
+complete columns (all 15 Mach numbers): 24, boundary at 0.5-Mach grid resolution unchanged in 24
+lowest failing grid point of each complete column: n=24, failure time -5.3 to -1.2 %

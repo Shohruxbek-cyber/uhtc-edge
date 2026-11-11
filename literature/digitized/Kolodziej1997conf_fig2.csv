@@ -1,0 +1,24 @@
+# DIGITIZED from Kolodziej, Bull, Milos, Squire (1997), 'Aerothermal Performance Constraints for Small Radius Leading Edges Operating at Hypervelocity', NTRS 19970040120, Figure 2 (p. 9-6, PDF p. 6): steady-state surface temperature WITHOUT conduction vs arc length.
+# Case (pp. 2-3): sharp 2-D (planar) leading edge, ZrB2/SiC A-10, R=0.254 cm, semi-vertex 5 deg, Mach 15 at 30.48 km, radiative equilibrium wall. Curves: BLIMPK/COSMOS (filled squares; boundary-layer code) and PERFORM/COSMOS (open squares; engineering correlations). Axes: arc length 0-5 cm (linear) vs temperature 1500-4500 K (linear).
+# Method: page rendered at 4x; ticks located by pixel scan (s: 0..5 cm at px 273.8..950, 135.25 px/cm; T: 4000/3500/3000/2500/2000/1500 K at py 52.5/166.5/283.5/397.5/512/626.5); curve value = centre of the dark-pixel run of the marker band in each column. Reading error about +/-25 K (markers ~25 px = 110 K tall); +/-60 K at s=0.40-0.45 cm (steep, crowded). T0 (s=0, both curves) = 4134 K +/-15 K. Only the flank (s >= 0.40 cm; tangency at s = R(pi/2-5deg) = 0.377 cm) and s=0 were read.
+# DERIVED columns (UNSURE): qratio = (T/T0)^4 equals q_conv(s)/q_conv(0) only if the emissivity is the same at T(s) and T0 (the paper uses TPSX A-10 properties; emissivity value/temperature dependence not stated) and conduction is off (it is, Fig. 2). These are HOT-WALL ratios (each q at its own wall temperature), not cold-wall ratios. PERFORM_over_BLIMPK = (T_P/T_B)^4 = ratio of the two methods' flank heating at the same s (emissivity cancels if equal at both temperatures).
+# Paper's own statement (p. 3): 'the temperature of the wedge aft-body is about 130 K lower' with PERFORM; 'The discrepancy between the two methods may be due to differences in the downstream pressure profiles.'
+s_cm,s_over_R,T_BLIMPK_K,T_PERFORM_K,qratio_BLIMPK_hotwall,qratio_PERFORM_hotwall,PERFORM_over_BLIMPK
+0,0,4134,4134,1,1,1
+0.4,1.575,3216,2981,0.3662,0.2703,0.738
+0.45,1.772,3209,2959,0.3632,0.2625,0.7226
+0.5,1.969,3133,2935,0.33,0.2541,0.77
+0.6,2.362,3081,2892,0.3085,0.2393,0.7758
+0.7,2.756,3027,2852,0.2872,0.2266,0.7889
+0.8,3.15,2979,2809,0.2695,0.2131,0.7907
+1,3.937,2900,2733,0.2422,0.1909,0.788
+1.25,4.921,2820,2652,0.2164,0.1693,0.7825
+1.5,5.906,2748,2578,0.1952,0.1512,0.7747
+1.75,6.89,2682,2524,0.1773,0.1388,0.7832
+2,7.874,2632,2469,0.1644,0.1272,0.774
+2.5,9.843,2534,2384,0.1412,0.1106,0.7831
+3,11.81,2463,2310,0.1259,0.0975,0.7744
+3.5,13.78,2404,2253,0.1143,0.08828,0.7724
+4,15.75,2351,2210,0.1047,0.08165,0.7801
+4.5,17.72,2317,2171,0.0986,0.07601,0.7709
+4.9,19.29,2273,2140,0.09139,0.07183,0.7859

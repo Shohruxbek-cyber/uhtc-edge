@@ -1,0 +1,9 @@
+# DIGITIZED from Hu, Gui, Yang, Dong, Zhang, Materials 6 (2013) 1730-1744, Fig. 10 "Thickness of the reacted layer vs. ablation time obtained under condition 1" (ZrB2-30 vol% SiC, ZS30).
+# Source: PMC figure image materials-06-01730-g010.jpg (760x629 px). Calibration (least squares on ticks): t[s]=1.097690*px_x-178.044 (ticks 0,200,400,600; max residual 0.7 s); thickness[um]=-0.304867*px_y+152.756 (ticks 0,40,80,120 um; max residual 0.4 um).
+# Markers located as filled-square blob centroids. Estimated reading uncertainty +/-1.5 um, +/-2 s. Condition 1: cold-wall heat flux 4.78 MW/m2, enthalpy 27.9 MJ/kg, pressure 18 kPa (Table 1). Location on specimen not stated (UNSURE; presumably front face).
+# The red line in the figure is the authors' fit and was not digitized. Whether each point is a separate specimen or interrupted test is not stated (UNSURE).
+t_s,reacted_layer_thickness_um
+0,0
+201,65
+402,99
+600,125

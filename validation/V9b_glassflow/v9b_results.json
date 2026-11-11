@@ -1,0 +1,146 @@
+{
+ "passed": false,
+ "by_bound": {
+  "fc": false,
+  "nc": false
+ },
+ "results": {
+  "fc_1.8": {
+   "T_low": 2066.65859609291,
+   "T_ref": 2387.3548009822944,
+   "t_glass": NaN,
+   "after": NaN,
+   "outcome": true,
+   "timing": true,
+   "temperature": false,
+   "ok": false,
+   "sink_max_um_s": 0.0006946320707006402,
+   "removed_um": 0.05860749057064061,
+   "v9_T_low": 2066.6585960902007,
+   "v9_T_ref": 2387.3547805790367,
+   "v9_after": NaN
+  },
+  "fc_1.5": {
+   "T_low": 2066.6685123639186,
+   "T_ref": 2444.358814254924,
+   "t_glass": NaN,
+   "after": NaN,
+   "outcome": false,
+   "timing": false,
+   "temperature": false,
+   "ok": false,
+   "sink_max_um_s": 0.0010867402276500667,
+   "removed_um": 0.09838172101504908,
+   "v9_T_low": 2066.66851236167,
+   "v9_T_ref": 2444.358331851092,
+   "v9_after": NaN
+  },
+  "fc_1.6": {
+   "T_low": 2066.6494911085715,
+   "T_ref": 2475.044073353648,
+   "t_glass": 429.76152654611013,
+   "after": 70.76152654611013,
+   "outcome": true,
+   "timing": false,
+   "temperature": false,
+   "ok": false,
+   "sink_max_um_s": 0.0018236743863423602,
+   "removed_um": 0.05882507785108586,
+   "v9_T_low": 2066.649491106287,
+   "v9_T_ref": 2475.0446610114236,
+   "v9_after": 70.78499716489114
+  },
+  "nc_1.8": {
+   "T_low": 1732.9567224358639,
+   "T_ref": 1871.7539400212422,
+   "t_glass": NaN,
+   "after": NaN,
+   "outcome": true,
+   "timing": true,
+   "temperature": false,
+   "ok": false,
+   "sink_max_um_s": 3.06525188963529e-10,
+   "removed_um": 2.33257542377489e-08,
+   "v9_T_low": 1732.956722435578,
+   "v9_T_ref": 1871.7539399942837,
+   "v9_after": NaN
+  },
+  "nc_1.5": {
+   "T_low": 1732.9576942661838,
+   "T_ref": 1890.2827341026893,
+   "t_glass": NaN,
+   "after": NaN,
+   "outcome": false,
+   "timing": false,
+   "temperature": false,
+   "ok": false,
+   "sink_max_um_s": 6.000399155485932e-10,
+   "removed_um": 4.4179375056300346e-08,
+   "v9_T_low": 1732.9576942658875,
+   "v9_T_ref": 1890.282734254466,
+   "v9_after": NaN
+  },
+  "nc_1.6": {
+   "T_low": 1732.9557285404517,
+   "T_ref": 1851.7435611349547,
+   "t_glass": NaN,
+   "after": NaN,
+   "outcome": false,
+   "timing": false,
+   "temperature": false,
+   "ok": false,
+   "sink_max_um_s": 6.472888246892536e-08,
+   "removed_um": 2.526224358756382e-06,
+   "v9_T_low": 1732.955728540176,
+   "v9_T_ref": 1851.743561574937,
+   "v9_after": NaN
+  }
+ },
+ "sensitivity": {
+  "beta_x0.5_1.8": {
+   "after": NaN,
+   "T_ref": 2387.3547905482183,
+   "removed_um": 0.02863482836545422
+  },
+  "beta_x0.5_1.5": {
+   "after": NaN,
+   "T_ref": 2444.358568020301,
+   "removed_um": 0.048206204452375175
+  },
+  "beta_x0.5_1.6": {
+   "after": 70.77372484126278,
+   "T_ref": 2475.0443727791794,
+   "removed_um": 0.0289705291353387
+  },
+  "beta_x2_1.8": {
+   "after": NaN,
+   "T_ref": 2387.3548232427047,
+   "removed_um": 0.12255242408266459
+  },
+  "beta_x2_1.5": {
+   "after": NaN,
+   "T_ref": 2444.3593369970094,
+   "removed_um": 0.2045992597494828
+  },
+  "beta_x2_1.6": {
+   "after": 70.72614841843085,
+   "T_ref": 2475.043441197228,
+   "removed_um": 0.12117036140421125
+  },
+  "F320_1.8": {
+   "after": NaN,
+   "T_ref": 2387.3548142579575,
+   "removed_um": 0.09554398133571639
+  },
+  "F320_1.5": {
+   "after": NaN,
+   "T_ref": 2444.3590990938087,
+   "removed_um": 0.1448529735381455
+  },
+  "F320_1.6": {
+   "after": 70.75345978710794,
+   "T_ref": 2475.0438903864256,
+   "removed_um": 0.07704931702640035
+  }
+ }
+}

@@ -1,0 +1,2416 @@
+{
+ "results": [
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 1",
+   "bound": "fc",
+   "kind": "T",
+   "S": 1826.710359782603,
+   "D": 1573.0,
+   "E": 253.71035978260306,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 5.273258589759821,
+   "u_BC": 159.68977519899943,
+   "u_input": 27.191968839417317,
+   "u_D": 20.307342678614226,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 163.3414304311431,
+   "U_val": 326.6828608622862,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0010422344602109969,
+    "bc": 0.9557878600045302,
+    "input": 0.027713322696032598,
+    "D": 0.015456582839226176
+   },
+   "u_joint": 146.1227278625668,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 97
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 1",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1684.7029054682455,
+   "D": 1573.0,
+   "E": 111.70290546824549,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 4.863318379883181,
+   "u_BC": 147.36351067520604,
+   "u_input": 35.64304984316772,
+   "u_D": 20.307342678614226,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 153.04401756676046,
+   "U_val": 306.0880351335209,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0010097937723167415,
+    "bc": 0.927144022863718,
+    "input": 0.05423966519787281,
+    "D": 0.017606518166092246
+   },
+   "u_joint": 144.4730631019927,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 2",
+   "bound": "fc",
+   "kind": "T",
+   "S": 1981.503122558902,
+   "D": 1723.0,
+   "E": 258.5031225589021,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 5.720106806047331,
+   "u_BC": 193.2303171255666,
+   "u_input": 39.22679310068931,
+   "u_D": 22.24383435171793,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 198.50492321841938,
+   "U_val": 397.00984643683876,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0008303586445389343,
+    "bc": 0.9475627256146291,
+    "input": 0.03905018042747466,
+    "D": 0.012556735313357343
+   },
+   "u_joint": 175.43796429282682,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 97
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 2",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1751.0934863839261,
+   "D": 1723.0,
+   "E": 28.09348638392612,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 5.054971478699801,
+   "u_BC": 164.31826061773856,
+   "u_input": 36.20630563451272,
+   "u_D": 22.24383435171793,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 169.79908198649346,
+   "U_val": 339.5981639729869,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0008862714171936007,
+    "bc": 0.9364853381124484,
+    "input": 0.04546715190398923,
+    "D": 0.017161238566369013
+   },
+   "u_joint": 156.62815665843863,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 3",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2194.487223720483,
+   "D": 1843.0,
+   "E": 351.48722372048314,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 6.334938946741078,
+   "u_BC": 250.19256181089082,
+   "u_input": 49.56135640601719,
+   "u_D": 24.48349444013252,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 256.3049335962139,
+   "U_val": 512.6098671924278,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0006109011398691894,
+    "bc": 0.9528726377634723,
+    "input": 0.037391461069943906,
+    "D": 0.009125000026714632
+   },
+   "u_joint": 238.59372773594015,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 97
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 3",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1859.2379473911542,
+   "D": 1843.0,
+   "E": 16.237947391154194,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 5.367157647069251,
+   "u_BC": 190.98181640795482,
+   "u_input": 34.09532751644813,
+   "u_D": 24.48349444013252,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 195.6138886637248,
+   "U_val": 391.2277773274496,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0007528168486015765,
+    "bc": 0.9532013875220017,
+    "input": 0.030380181205814105,
+    "D": 0.015665614423582615
+   },
+   "u_joint": 179.28729234206185,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 4",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2431.4349939234608,
+   "D": 1923.0,
+   "E": 508.43499392346075,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 7.0189482412939315,
+   "u_BC": 294.63089888136,
+   "u_input": 82.78844429896012,
+   "u_D": 24.825823249189543,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 307.1268145562907,
+   "U_val": 614.2536291125814,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0005222862698238761,
+    "bc": 0.9202823879433047,
+    "input": 0.07266143535642501,
+    "D": 0.006533890430446222
+   },
+   "u_joint": 292.60252379116815,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 97
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 4",
+   "bound": "nc",
+   "kind": "T",
+   "S": 2023.8182370864263,
+   "D": 1923.0,
+   "E": 100.81823708642628,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 5.842260019863611,
+   "u_BC": 228.81898052115255,
+   "u_input": 46.009939048310706,
+   "u_D": 24.825823249189543,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 234.78818931136325,
+   "U_val": 469.5763786227265,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0006191690951322196,
+    "bc": 0.949798762775791,
+    "input": 0.03840173291452726,
+    "D": 0.011180335214549551
+   },
+   "u_joint": 221.24058039598862,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 5",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2700.829710418719,
+   "D": 2053.0,
+   "E": 647.8297104187191,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 7.796623801727932,
+   "u_BC": 308.1474278607753,
+   "u_input": 97.12329391698707,
+   "u_D": 26.50411603254609,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 324.2699909456154,
+   "U_val": 648.5399818912308,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.0005780955680971075,
+    "bc": 0.9030329040157129,
+    "input": 0.08970843640723859,
+    "D": 0.006680564008951455
+   },
+   "u_joint": 306.5725959194926,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 97
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "plateau temperature, step 5",
+   "bound": "nc",
+   "kind": "T",
+   "S": 2163.637491594311,
+   "D": 2053.0,
+   "E": 110.63749159431109,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 6.245883441003711,
+   "u_BC": 296.89681559799266,
+   "u_input": 56.01308552122572,
+   "u_D": 26.50411603254609,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 303.3589690259081,
+   "U_val": 606.7179380518162,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.00042391039971963396,
+    "bc": 0.9578497708826572,
+    "input": 0.03409300750695706,
+    "D": 0.007633311210666179
+   },
+   "u_joint": 307.7667040936383,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "oxide at the stagnation point",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 305.83395271645327,
+   "D": 150.0,
+   "E": 0.7124070223932188,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.011547005383792516,
+   "u_BC": 0.6943026173407406,
+   "u_input": 0.5592138909731514,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.891577048626123,
+   "U_val": 1.783154097252246,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.00016773395074268642,
+    "bc": 0.6064288367480228,
+    "input": 0.3934034293012343,
+    "D": 0.0
+   },
+   "u_joint": 0.8767511726429079,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 97
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "oxide at the stagnation point",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 99.80481555159858,
+   "D": 150.0,
+   "E": -0.4074188599229029,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.011547005383792516,
+   "u_BC": 1.1916797110268855,
+   "u_input": 0.4979178868344047,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 1.2915711707204114,
+   "U_val": 2.5831423414408228,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 7.99285715585386e-05,
+    "bc": 0.851299553445082,
+    "input": 0.14862051798335923,
+    "D": 0.0
+   },
+   "u_joint": 1.2410668912567089,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V7",
+   "quantity": "SiC-depleted layer (none observed)",
+   "bound": "fc",
+   "kind": "outcome",
+   "S": false,
+   "share_reproducing": 0.0,
+   "n": 97,
+   "label": "outcome not reproduced within input uncertainty"
+  },
+  {
+   "check": "V7",
+   "quantity": "SiC-depleted layer (none observed)",
+   "bound": "nc",
+   "kind": "outcome",
+   "S": false,
+   "share_reproducing": 0.11,
+   "n": 100,
+   "label": "outcome reproduced in 11 % of the joint sample"
+  },
+  {
+   "check": "V8_1",
+   "quantity": "peak temperature (30 MJ/kg nominal)",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2940.018985599227,
+   "D": 1903.15,
+   "E": 1036.868985599227,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.3579366022066597,
+   "u_BC": 126.94971815011021,
+   "u_input": 159.8273274703001,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 204.1147949966062,
+   "U_val": 408.2295899932124,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 4.425985827005884e-05,
+    "bc": 0.3868249799925655,
+    "input": 0.6131307601491646,
+    "D": 0.0
+   },
+   "u_joint": 233.84126922386673,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 49,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_1",
+   "quantity": "peak temperature (30 MJ/kg nominal)",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1946.3634344621023,
+   "D": 1903.15,
+   "E": 43.213434462102214,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.8989867622620316,
+   "u_BC": 129.92454621018626,
+   "u_input": 43.98519183458979,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 137.17103552079502,
+   "U_val": 274.34207104159003,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 4.295183860421926e-05,
+    "bc": 0.8971345511275912,
+    "input": 0.10282249703380487,
+    "D": 0.0
+   },
+   "u_joint": 148.08642510520588,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_1",
+   "quantity": "oxide at 300 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 815.5760645094848,
+   "D": 110.0,
+   "E": 2.003414325382454,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.24171350690570753,
+   "u_input": 0.6207341117049431,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.6661353367408009,
+   "U_val": 1.3322706734816019,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 6.760772307498479e-08,
+    "bc": 0.13166698589105058,
+    "input": 0.8683329465012264,
+    "D": 0.0
+   },
+   "u_joint": 0.7274769437780371,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 49,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_1",
+   "quantity": "oxide at 300 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 58.40119690609574,
+   "D": 110.0,
+   "E": -0.633143981200861,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.3616121344194694,
+   "u_input": 0.42193027563410723,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.5556874330557405,
+   "U_val": 1.111374866111481,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 9.71538698513125e-08,
+    "bc": 0.42347213678975504,
+    "input": 0.5765277660563749,
+    "D": 0.0
+   },
+   "u_joint": 0.64995239389491,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_1",
+   "quantity": "SiC-depleted layer at 300 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 47.532717660979706,
+   "D": 40.0,
+   "E": 0.17253881268045906,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.0031831466932090114,
+   "u_input": 0.20309248736234078,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.2031175050208451,
+   "U_val": 0.4062350100416902,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 7.271542523231433e-07,
+    "bc": 0.00024559447922037434,
+    "input": 0.9997536783665273,
+    "D": 0.0
+   },
+   "u_joint": 0.20150560322575592,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 49,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_1",
+   "quantity": "SiC-depleted layer at 300 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 40.98296181884206,
+   "D": 40.0,
+   "E": 0.024276960825047558,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.04199503147204814,
+   "u_input": 0.19412007244206203,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.19861071268501537,
+   "U_val": 0.39722142537003075,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 7.605292384333435e-07,
+    "bc": 0.044708539455519385,
+    "input": 0.9552907000152421,
+    "D": 0.0
+   },
+   "u_joint": 0.206975679131596,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 1",
+   "bound": "fc",
+   "kind": "T",
+   "S": 3142.595437854978,
+   "D": 2233.15,
+   "E": 909.4454378549781,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.4515026575997294,
+   "u_BC": 53.39036035982762,
+   "u_input": 115.79754186008647,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 127.52140267482847,
+   "U_val": 255.04280534965693,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00012955957313097482,
+    "bc": 0.1752909691149426,
+    "input": 0.8245794713119264,
+    "D": 0.0
+   },
+   "u_joint": 128.8087142097026,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 1",
+   "bound": "nc",
+   "kind": "T",
+   "S": 2240.577385762424,
+   "D": 2233.15,
+   "E": 7.42738576242391,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.0348783654480989,
+   "u_BC": 42.80987889108389,
+   "u_input": 49.78846636858159,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 65.67075519008384,
+   "U_val": 131.34151038016768,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.00024833309131859645,
+    "bc": 0.42495601161927427,
+    "input": 0.5747956552894069,
+    "D": 0.0
+   },
+   "u_joint": 76.47189357980447,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 2",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2945.395527047833,
+   "D": 2173.15,
+   "E": 772.2455270478331,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.3604199203287892,
+   "u_BC": 46.84864386652502,
+   "u_input": 105.3348747938408,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 115.29129204899317,
+   "U_val": 230.58258409798634,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00013923645344038379,
+    "bc": 0.1651205152395218,
+    "input": 0.8347402483070379,
+    "D": 0.0
+   },
+   "u_joint": 115.90956035753032,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 2",
+   "bound": "nc",
+   "kind": "T",
+   "S": 2199.3033200004643,
+   "D": 2173.15,
+   "E": 26.15332000046419,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.0158146910655248,
+   "u_BC": 40.107938144448866,
+   "u_input": 48.34268009218543,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 62.822713250709754,
+   "U_val": 125.64542650141951,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 0.00026145418660660804,
+    "bc": 0.4075935422003026,
+    "input": 0.5921450036130907,
+    "D": 0.0
+   },
+   "u_joint": 63.283720400994106,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 201 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 697.9831219428198,
+   "D": 65.0,
+   "E": 2.373807651976701,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.10097672630493848,
+   "u_input": 0.4126475253334326,
+   "u_D": 0.013323467750529826,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.4250315567248716,
+   "U_val": 0.8500631134497432,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.6606530341370652e-07,
+    "bc": 0.05644171765073698,
+    "input": 0.9425754813525176,
+    "D": 0.0009826349314420507
+   },
+   "u_joint": 0.4263711836537941,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 201 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 52.71326229194679,
+   "D": 65.0,
+   "E": -0.20952018961480184,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.23115016920315545,
+   "u_input": 0.24305542907035724,
+   "u_D": 0.013323467750529826,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.33568420742734123,
+   "U_val": 0.6713684148546825,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 2.662314974019719e-07,
+    "bc": 0.4741618530392607,
+    "input": 0.5242625464250884,
+    "D": 0.0015753343041536804
+   },
+   "u_joint": 0.31150630786001077,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 201 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 660.8662643586719,
+   "D": 65.0,
+   "E": 2.3191642262766767,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.1054879592952591,
+   "u_input": 0.4457198790585131,
+   "u_D": 0.013323467750529826,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.4582264341317655,
+   "U_val": 0.916452868263531,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.428765571025808e-07,
+    "bc": 0.05299629432795074,
+    "input": 0.946158139380684,
+    "D": 0.0008454234148081705
+   },
+   "u_joint": 0.45335051894939404,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 201 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 35.162859410606984,
+   "D": 65.0,
+   "E": -0.6143968747139981,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.2741112220643424,
+   "u_input": 0.37584258608749144,
+   "u_D": 0.013323467750529826,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.4653731367101458,
+   "U_val": 0.9307462734202916,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 1.385219619300802e-07,
+    "bc": 0.3469373132746613,
+    "input": 0.6522428916239089,
+    "D": 0.0008196565794679303
+   },
+   "u_joint": 0.4407468282731225,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 402 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 1403.5292159228934,
+   "D": 99.0,
+   "E": 2.651625361925852,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.09051987591966788,
+   "u_input": 0.4452102443976471,
+   "u_D": 0.008747731351357967,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.4544035238165746,
+   "U_val": 0.9088070476331492,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.4529071919213072e-07,
+    "bc": 0.039683001988226496,
+    "input": 0.959946250947786,
+    "D": 0.0003706017732683674
+   },
+   "u_joint": 0.4584735685414758,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 402 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 199.07042297470753,
+   "D": 99.0,
+   "E": 0.6985387962826368,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.12178892308991245,
+   "u_input": 0.3319802787180203,
+   "u_D": 0.008747731351357967,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.3537230555800549,
+   "U_val": 0.7074461111601098,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 2.3976982087817694e-07,
+    "bc": 0.1185465295844373,
+    "input": 0.8808416353471034,
+    "D": 0.0006115952986383456
+   },
+   "u_joint": 0.3773591746927863,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 402 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 1349.0909349918393,
+   "D": 99.0,
+   "E": 2.6120664129872133,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.09357849300225035,
+   "u_input": 0.4709986141495156,
+   "u_D": 0.008747731351357967,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.48028447995654827,
+   "U_val": 0.9605689599130965,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.3005413017924975e-07,
+    "bc": 0.037962516008685714,
+    "input": 0.9617056170476339,
+    "D": 0.0003317368895501729
+   },
+   "u_joint": 0.47989329907193595,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 402 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 155.55176110922312,
+   "D": 99.0,
+   "E": 0.4518586949657498,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.14395808119351586,
+   "u_input": 0.45827026819232136,
+   "u_D": 0.008747731351357967,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.48042910054843324,
+   "U_val": 0.9608582010968665,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 1.29975843188065e-07,
+    "bc": 0.08978700547535486,
+    "input": 0.9098813273505874,
+    "D": 0.00033153719821463375
+   },
+   "u_joint": 0.49366205793291035,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 600 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 1915.0469890881802,
+   "D": 125.0,
+   "E": 2.72918370139427,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.090613081861753,
+   "u_input": 0.46248805034620444,
+   "u_D": 0.0069282032302755096,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.47133210936400044,
+   "U_val": 0.9426642187280009,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.350414836730632e-07,
+    "bc": 0.036959641428981595,
+    "input": 0.9628241571556578,
+    "D": 0.00021606637387690117
+   },
+   "u_joint": 0.4762185779250907,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 600 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 299.3991787931963,
+   "D": 125.0,
+   "E": 0.8734639918377697,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.08814752684921452,
+   "u_input": 0.3618694718025138,
+   "u_D": 0.0069282032302755096,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.3725151421248045,
+   "U_val": 0.745030284249609,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 2.1618890067107928e-07,
+    "bc": 0.05599282791409652,
+    "input": 0.9436610536559291,
+    "D": 0.00034590224107372694
+   },
+   "u_joint": 0.39382049424722865,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 600 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 1847.7734741864672,
+   "D": 125.0,
+   "E": 2.6934229284824935,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.09341217774300538,
+   "u_input": 0.48666225970071075,
+   "u_D": 0.0069282032302755096,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.4955946125289225,
+   "U_val": 0.991189225057845,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.2214286466198504e-07,
+    "bc": 0.03552661591483497,
+    "input": 0.9642778333588413,
+    "D": 0.00019542858345917611
+   },
+   "u_joint": 0.4963934770619847,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 600 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 240.61078219450238,
+   "D": 125.0,
+   "E": 0.6548668790101567,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.10373716787140821,
+   "u_input": 0.4931063905043539,
+   "u_D": 0.0069282032302755096,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.5039477575644256,
+   "U_val": 1.0078955151288511,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 1.1812728452029023e-07,
+    "bc": 0.04237383197993735,
+    "input": 0.9574370462375459,
+    "D": 0.00018900365523246443
+   },
+   "u_joint": 0.5021467575030096,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "oxide, condition 2, 600 s",
+   "bound": "fc",
+   "kind": "thick",
+   "S": 1225.8765105638056,
+   "D": 90.0,
+   "E": 2.6116017156146043,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.10164345925867907,
+   "u_input": 0.5054267964591479,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.5155459915361846,
+   "U_val": 1.0310919830723693,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.1287205335357238e-07,
+    "bc": 0.038870850682500666,
+    "input": 0.9611290364454457,
+    "D": 0.0
+   },
+   "u_joint": 0.5159783092324307,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "oxide, condition 2, 600 s",
+   "bound": "nc",
+   "kind": "thick",
+   "S": 208.57801186672864,
+   "D": 90.0,
+   "E": 0.8405034585632687,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.00017320508075688773,
+   "u_BC": 0.12208575692839754,
+   "u_input": 0.47101786577711163,
+   "u_D": 0.0,
+   "u_D_lower_bound": true,
+   "u_BC_lower_bound": true,
+   "u_val": 0.48658276986141313,
+   "U_val": 0.9731655397228263,
+   "label": "not distinguishable at the test uncertainty",
+   "share": {
+    "num": 1.2670909882400714e-07,
+    "bc": 0.06295301691423702,
+    "input": 0.9370468563766641,
+    "D": 0.0
+   },
+   "u_joint": 0.5076377920516175,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V8_2",
+   "quantity": "trend T(ZS10) > T(ZS15) > T(ZS30)",
+   "bound": "fc",
+   "kind": "outcome",
+   "S": true,
+   "share_reproducing": 0.97,
+   "n": 100,
+   "label": "outcome reproduced in 97 % of the joint sample"
+  },
+  {
+   "check": "V8_2",
+   "quantity": "trend T(ZS10) > T(ZS15) > T(ZS30)",
+   "bound": "nc",
+   "kind": "outcome",
+   "S": false,
+   "share_reproducing": 0.0,
+   "n": 100,
+   "label": "outcome not reproduced within input uncertainty"
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: low-stage plateau",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2066.6585960902007,
+   "D": 1895.0,
+   "E": 171.65859609020072,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.9545487174205853,
+   "u_BC": 26.769184169892327,
+   "u_input": 44.512452571034764,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 52.98294208136706,
+   "U_val": 105.96588416273411,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.0003245817189289185,
+    "bc": 0.25526903126806716,
+    "input": 0.705815037549561,
+    "D": 0.03859134946344297
+   },
+   "u_joint": 48.04265801887704,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: low-stage plateau",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1732.956722435578,
+   "D": 1895.0,
+   "E": -162.04327756442194,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.8004184241537222,
+   "u_BC": 22.70149478905063,
+   "u_input": 37.2939230886805,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 44.89062895514795,
+   "U_val": 89.7812579102959,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00031792360396140266,
+    "bc": 0.2557393330978977,
+    "input": 0.6901837997267576,
+    "D": 0.05375894357138324
+   },
+   "u_joint": 40.54521722017424,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: high-stage temperature at the reference time",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2387.3547805790367,
+   "D": 2110.0,
+   "E": 277.35478057903674,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.1026719401747576,
+   "u_BC": 70.29184940119997,
+   "u_input": 66.93203487592125,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 97.62371947233673,
+   "U_val": 195.24743894467346,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.0001275798084485388,
+    "bc": 0.5184408801007161,
+    "input": 0.4700643949402201,
+    "D": 0.011367145150615147
+   },
+   "u_joint": 110.11847411361545,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: high-stage temperature at the reference time",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1871.7539399942837,
+   "D": 2110.0,
+   "E": -238.24606000571634,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.864526112889954,
+   "u_BC": 37.02205502867257,
+   "u_input": 42.853714015873706,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 57.586058227956116,
+   "U_val": 115.17211645591223,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00022538319294788147,
+    "bc": 0.41331992310697746,
+    "input": 0.5537863284813513,
+    "D": 0.03266836521872335
+   },
+   "u_joint": 51.13786853369849,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: jump outcome (no glass loss in the high stage)",
+   "bound": "fc",
+   "kind": "outcome",
+   "S": true,
+   "share_reproducing": 0.58,
+   "n": 100,
+   "label": "outcome reproduced in 58 % of the joint sample"
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: jump outcome (no glass loss in the high stage)",
+   "bound": "nc",
+   "kind": "outcome",
+   "S": true,
+   "share_reproducing": 1.0,
+   "n": 100,
+   "label": "outcome reproduced in 100 % of the joint sample"
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: low-stage plateau",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2066.66851236167,
+   "D": 1825.0,
+   "E": 241.66851236166985,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.9545532975501869,
+   "u_BC": 26.769814323065653,
+   "u_input": 44.51504112724831,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 52.98543527030062,
+   "U_val": 105.97087054060124,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.0003245542883007742,
+    "bc": 0.25525702605901224,
+    "input": 0.7058307018763764,
+    "D": 0.0385877177763105
+   },
+   "u_joint": 48.04537310802807,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: low-stage plateau",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1732.9576942658875,
+   "D": 1825.0,
+   "E": -92.04230573411246,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.8004188730229148,
+   "u_BC": 22.70155211179409,
+   "u_input": 37.293883884890015,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 44.890625382253106,
+   "U_val": 89.78125076450621,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.0003179240111481256,
+    "bc": 0.2557406653256242,
+    "input": 0.6901824585343757,
+    "D": 0.05375895212885191
+   },
+   "u_joint": 40.54416969978252,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: high-stage temperature at the reference time",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2444.358331851092,
+   "D": 2210.0,
+   "E": 234.35833185109186,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.1290007527121062,
+   "u_BC": 76.99691847166594,
+   "u_input": 67.1040232315535,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 102.66977824085431,
+   "U_val": 205.33955648170863,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.0001209214134454628,
+    "bc": 0.5624208868667888,
+    "input": 0.4271809432062924,
+    "D": 0.010277248513473008
+   },
+   "u_joint": 111.24958259109601,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: high-stage temperature at the reference time",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1890.282734254466,
+   "D": 2210.0,
+   "E": -319.71726574553395,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.8730841963730543,
+   "u_BC": 40.73348536362028,
+   "u_input": 43.26588009036098,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 60.334474549871175,
+   "U_val": 120.66894909974235,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00020940217326188387,
+    "bc": 0.45579764248883947,
+    "input": 0.5142330848692442,
+    "D": 0.02975987046865435
+   },
+   "u_joint": 53.5208803198138,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: glass loss after the switch",
+   "bound": "fc",
+   "kind": "time",
+   "S": null,
+   "D": 68.0,
+   "E": NaN,
+   "E_lower": 0.5926766501963108,
+   "unit": "ln",
+   "u_num": 0.002540341184434354,
+   "u_BC": NaN,
+   "u_input": NaN,
+   "u_D": 0.02582268076679593,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": NaN,
+   "U_val": NaN,
+   "label": "censored at the baseline (E > 0.59) and in 61 of 100 group samples; the rule of plan Section 3 cannot be applied",
+   "share": {
+    "num": NaN,
+    "bc": NaN,
+    "input": NaN,
+    "D": NaN
+   },
+   "u_joint": 0.4305817242142729,
+   "censored": {
+    "bc": 35,
+    "input": 26,
+    "joint": 22
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: glass loss after the switch",
+   "bound": "nc",
+   "kind": "time",
+   "S": null,
+   "D": 68.0,
+   "E": NaN,
+   "E_lower": 0.5926766501963108,
+   "unit": "ln",
+   "u_num": 0.002540341184434354,
+   "u_BC": NaN,
+   "u_input": NaN,
+   "u_D": 0.02582268076679593,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": NaN,
+   "U_val": NaN,
+   "label": "no glass loss by the end of the run in any sample (censored, E > 0.59); see the outcome row",
+   "share": {
+    "num": NaN,
+    "bc": NaN,
+    "input": NaN,
+    "D": NaN
+   },
+   "u_joint": NaN,
+   "censored": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: jump outcome (glass loss in the high stage)",
+   "bound": "fc",
+   "kind": "outcome",
+   "S": false,
+   "share_reproducing": 0.78,
+   "n": 100,
+   "label": "outcome reproduced in 78 % of the joint sample"
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: jump outcome (glass loss in the high stage)",
+   "bound": "nc",
+   "kind": "outcome",
+   "S": false,
+   "share_reproducing": 0.0,
+   "n": 100,
+   "label": "outcome not reproduced within input uncertainty"
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: low-stage plateau",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2066.649491106287,
+   "D": 1860.0,
+   "E": 206.64949110628686,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.9545445120086544,
+   "u_BC": 26.768667478218024,
+   "u_input": 44.50983992504399,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 52.98048600448269,
+   "U_val": 105.96097200896538,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00032460895338844436,
+    "bc": 0.2552828443240916,
+    "input": 0.7057976191296377,
+    "D": 0.03859492759288236
+   },
+   "u_joint": 48.03989501597105,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: low-stage plateau",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1732.955728540176,
+   "D": 1860.0,
+   "E": -127.0442714598239,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.8004179650930999,
+   "u_BC": 22.701439223391024,
+   "u_input": 37.293821398981926,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 44.890516365983764,
+   "U_val": 89.78103273196753,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00031792483404479696,
+    "bc": 0.2557393639974206,
+    "input": 0.6901834979329725,
+    "D": 0.05375921323556199
+   },
+   "u_joint": 40.54610901579647,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: high-stage temperature at the reference time",
+   "bound": "fc",
+   "kind": "T",
+   "S": 2475.0446610114236,
+   "D": 2250.0,
+   "E": 225.0446610114236,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 1.1431741610330333,
+   "u_BC": 42.05220874803841,
+   "u_input": 43.852176016427585,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 61.65258942218187,
+   "U_val": 123.30517884436374,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00034381289058279033,
+    "bc": 0.4652377852695036,
+    "input": 0.5059174435412607,
+    "D": 0.028500958298652856
+   },
+   "u_joint": 61.865861913714795,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: high-stage temperature at the reference time",
+   "bound": "nc",
+   "kind": "T",
+   "S": 1851.743561574937,
+   "D": 2250.0,
+   "E": -398.2564384250629,
+   "E_lower": null,
+   "unit": "K",
+   "u_num": 0.8552837149963571,
+   "u_BC": 40.34001926877333,
+   "u_input": 39.82650171587186,
+   "u_D": 10.408329997330664,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 57.641410783358,
+   "U_val": 115.282821566716,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 0.00022016648174868363,
+    "bc": 0.48978220179058957,
+    "input": 0.4773919786887536,
+    "D": 0.03260565303890807
+   },
+   "u_joint": 52.179777893038555,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 0
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: glass loss after the switch",
+   "bound": "fc",
+   "kind": "time",
+   "S": 70.78499716489114,
+   "D": 21.0,
+   "E": 1.2151246360706405,
+   "E_lower": null,
+   "unit": "ln",
+   "u_num": 0.002540341184434354,
+   "u_BC": 0.3437899307260019,
+   "u_input": 0.44547154050287724,
+   "u_D": 0.08361629962581539,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": 0.5688888720682126,
+   "U_val": 1.1377777441364252,
+   "label": "model error indicated at the test uncertainty (stated uncertainties only: U_val is a lower bound)",
+   "share": {
+    "num": 1.9940186726041722e-05,
+    "bc": 0.36520055389737127,
+    "input": 0.6131758619605931,
+    "D": 0.02160364395530981
+   },
+   "u_joint": 0.40950693946320404,
+   "censored": {
+    "bc": 0,
+    "input": 0,
+    "joint": 1
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: glass loss after the switch",
+   "bound": "nc",
+   "kind": "time",
+   "S": null,
+   "D": 21.0,
+   "E": NaN,
+   "E_lower": 1.751268107873318,
+   "unit": "ln",
+   "u_num": 0.002540341184434354,
+   "u_BC": NaN,
+   "u_input": NaN,
+   "u_D": 0.08361629962581539,
+   "u_D_lower_bound": false,
+   "u_BC_lower_bound": true,
+   "u_val": NaN,
+   "U_val": NaN,
+   "label": "no glass loss by the end of the run in any sample (censored, E > 1.75); see the outcome row",
+   "share": {
+    "num": NaN,
+    "bc": NaN,
+    "input": NaN,
+    "D": NaN
+   },
+   "u_joint": NaN,
+   "censored": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   },
+   "n": {
+    "bc": 50,
+    "input": 50,
+    "joint": 100
+   }
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: jump outcome (glass loss in the high stage)",
+   "bound": "fc",
+   "kind": "outcome",
+   "S": true,
+   "share_reproducing": 0.99,
+   "n": 100,
+   "label": "outcome reproduced in 99 % of the joint sample"
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: jump outcome (glass loss in the high stage)",
+   "bound": "nc",
+   "kind": "outcome",
+   "S": false,
+   "share_reproducing": 0.0,
+   "n": 100,
+   "label": "outcome not reproduced within input uncertainty"
+  }
+ ],
+ "calorimeter": [
+  {
+   "check": "V8_1",
+   "quantity": "peak temperature (30 MJ/kg nominal)",
+   "bound": "fc",
+   "S": 2940.018985599227,
+   "gamma_0.01": 3399.731697489718,
+   "gamma_0.067": 3041.0420784689763
+  },
+  {
+   "check": "V8_1",
+   "quantity": "peak temperature (30 MJ/kg nominal)",
+   "bound": "nc",
+   "S": 1946.3634344621023,
+   "gamma_0.01": 2234.8264250320526,
+   "gamma_0.067": 2009.688656595159
+  },
+  {
+   "check": "V8_1",
+   "quantity": "oxide at 300 s",
+   "bound": "fc",
+   "S": 815.5760645094848,
+   "gamma_0.01": 1907.053444104355,
+   "gamma_0.067": 1006.8021439623999
+  },
+  {
+   "check": "V8_1",
+   "quantity": "oxide at 300 s",
+   "bound": "nc",
+   "S": 58.40119690609574,
+   "gamma_0.01": 150.20138678331898,
+   "gamma_0.067": 75.87035476800858
+  },
+  {
+   "check": "V8_1",
+   "quantity": "SiC-depleted layer at 300 s",
+   "bound": "fc",
+   "S": 47.532717660979706,
+   "gamma_0.01": 48.05101570300851,
+   "gamma_0.067": 47.68452796140323
+  },
+  {
+   "check": "V8_1",
+   "quantity": "SiC-depleted layer at 300 s",
+   "bound": "nc",
+   "S": 40.98296181884206,
+   "gamma_0.01": 45.624708679564,
+   "gamma_0.067": 42.971367154841445
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 1",
+   "bound": "fc",
+   "S": 3142.595437854978,
+   "gamma_0.01": 3341.752814035156,
+   "gamma_0.067": 3179.515288238774
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 1",
+   "bound": "nc",
+   "S": 2240.577385762424,
+   "gamma_0.01": 2399.833167570553,
+   "gamma_0.067": 2270.2263064745616
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 2",
+   "bound": "fc",
+   "S": 2945.395527047833,
+   "gamma_0.01": 3118.929020822638,
+   "gamma_0.067": 2978.4228824991883
+  },
+  {
+   "check": "V8_2",
+   "quantity": "steady temperature, condition 2",
+   "bound": "nc",
+   "S": 2199.3033200004643,
+   "gamma_0.01": 2348.001702621375,
+   "gamma_0.067": 2227.5382823848395
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 201 s",
+   "bound": "fc",
+   "S": 697.9831219428198,
+   "gamma_0.01": 1007.8654986538261,
+   "gamma_0.067": 753.8766501863763
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 201 s",
+   "bound": "nc",
+   "S": 52.71326229194679,
+   "gamma_0.01": 121.5252935584666,
+   "gamma_0.067": 64.07312025973738
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 201 s",
+   "bound": "fc",
+   "S": 660.8662643586719,
+   "gamma_0.01": 969.6625918980137,
+   "gamma_0.067": 716.5206851850579
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 201 s",
+   "bound": "nc",
+   "S": 35.162859410606984,
+   "gamma_0.01": 94.67693533974762,
+   "gamma_0.067": 44.07005349237731
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 402 s",
+   "bound": "fc",
+   "S": 1403.5292159228934,
+   "gamma_0.01": 1955.0323900884243,
+   "gamma_0.067": 1501.0831660398385
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 402 s",
+   "bound": "nc",
+   "S": 199.07042297470753,
+   "gamma_0.01": 301.54681213031853,
+   "gamma_0.067": 219.54276472640703
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 402 s",
+   "bound": "fc",
+   "S": 1349.0909349918393,
+   "gamma_0.01": 1899.8478509436777,
+   "gamma_0.067": 1446.4816150656404
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 402 s",
+   "bound": "nc",
+   "S": 155.55176110922312,
+   "gamma_0.01": 253.51865616785355,
+   "gamma_0.067": 174.97824147455268
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 600 s",
+   "bound": "fc",
+   "S": 1915.0469890881802,
+   "gamma_0.01": 2670.2032247707684,
+   "gamma_0.067": 2047.141281470198
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide + depleted), condition 1, 600 s",
+   "bound": "nc",
+   "S": 299.3991787931963,
+   "gamma_0.01": 388.35001259108753,
+   "gamma_0.067": 324.714146508861
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 600 s",
+   "bound": "fc",
+   "S": 1847.7734741864672,
+   "gamma_0.01": 2602.3244312962424,
+   "gamma_0.067": 1979.7355758667552
+  },
+  {
+   "check": "V8_2",
+   "quantity": "reacted layer (oxide only), condition 1, 600 s",
+   "bound": "nc",
+   "S": 240.61078219450238,
+   "gamma_0.01": 326.149494296071,
+   "gamma_0.067": 265.14738504577787
+  },
+  {
+   "check": "V8_2",
+   "quantity": "oxide, condition 2, 600 s",
+   "bound": "fc",
+   "S": 1225.8765105638056,
+   "gamma_0.01": 1775.9219240514997,
+   "gamma_0.067": 1322.9470411002208
+  },
+  {
+   "check": "V8_2",
+   "quantity": "oxide, condition 2, 600 s",
+   "bound": "nc",
+   "S": 208.57801186672864,
+   "gamma_0.01": 316.0183310292366,
+   "gamma_0.067": 230.60611856420618
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: low-stage plateau",
+   "bound": "fc",
+   "S": 2066.6585960902007,
+   "gamma_0.01": 2166.5556914541603,
+   "gamma_0.067": 2085.9310016423656
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: low-stage plateau",
+   "bound": "nc",
+   "S": 1732.956722435578,
+   "gamma_0.01": 1817.7259429499982,
+   "gamma_0.067": 1749.2704557115671
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: high-stage temperature at the reference time",
+   "bound": "fc",
+   "S": 2387.3547805790367,
+   "gamma_0.01": 2665.208134955379,
+   "gamma_0.067": 2416.9757939313304
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.8: high-stage temperature at the reference time",
+   "bound": "nc",
+   "S": 1871.7539399942837,
+   "gamma_0.01": 2007.187910036273,
+   "gamma_0.067": 1896.5954143005963
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: low-stage plateau",
+   "bound": "fc",
+   "S": 2066.66851236167,
+   "gamma_0.01": 2166.5678744416296,
+   "gamma_0.067": 2085.941288779115
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: low-stage plateau",
+   "bound": "nc",
+   "S": 1732.9576942658875,
+   "gamma_0.01": 1817.7271196557733,
+   "gamma_0.067": 1749.271495811987
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: high-stage temperature at the reference time",
+   "bound": "fc",
+   "S": 2444.358331851092,
+   "gamma_0.01": 2742.304720447178,
+   "gamma_0.067": 2475.950236816827
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: high-stage temperature at the reference time",
+   "bound": "nc",
+   "S": 1890.282734254466,
+   "gamma_0.01": 2040.3752225074177,
+   "gamma_0.067": 1923.6046281660006
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: glass loss after the switch",
+   "bound": "fc",
+   "S": null,
+   "gamma_0.01": 38.60265573536384,
+   "gamma_0.067": null
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.5: glass loss after the switch",
+   "bound": "nc",
+   "S": null,
+   "gamma_0.01": null,
+   "gamma_0.067": null
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: low-stage plateau",
+   "bound": "fc",
+   "S": 2066.649491106287,
+   "gamma_0.01": 2166.5445262405747,
+   "gamma_0.067": 2085.921478798153
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: low-stage plateau",
+   "bound": "nc",
+   "S": 1732.955728540176,
+   "gamma_0.01": 1817.72480595696,
+   "gamma_0.067": 1749.269374563062
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: high-stage temperature at the reference time",
+   "bound": "fc",
+   "S": 2475.0446610114236,
+   "gamma_0.01": 2636.514443584951,
+   "gamma_0.067": 2510.951464900423
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: high-stage temperature at the reference time",
+   "bound": "nc",
+   "S": 1851.743561574937,
+   "gamma_0.01": 2003.0640852491297,
+   "gamma_0.067": 1878.7717527295108
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: glass loss after the switch",
+   "bound": "fc",
+   "S": 70.78499716489114,
+   "gamma_0.01": 20.745674244120494,
+   "gamma_0.067": 50.702940066567805
+  },
+  {
+   "check": "V9",
+   "quantity": "sample 1.6: glass loss after the switch",
+   "bound": "nc",
+   "S": null,
+   "gamma_0.01": null,
+   "gamma_0.067": null
+  }
+ ],
+ "v8_1_bracket": {
+  "15 MJ/kg, fc": {
+   "T_max": 2814.188945957644,
+   "oxide_um": 626.1583189859874,
+   "dep_um": 47.481311023568075
+  },
+  "15 MJ/kg, nc": {
+   "T_max": 2140.993774927206,
+   "oxide_um": 120.95730721833081,
+   "dep_um": 45.03645183528395
+  },
+  "30 MJ/kg, fc": {
+   "T_max": 2940.018985599227,
+   "oxide_um": 815.5760645094848,
+   "dep_um": 47.532717660979706
+  },
+  "30 MJ/kg, nc": {
+   "T_max": 1946.3634344621023,
+   "oxide_um": 58.40119690609574,
+   "dep_um": 40.98296181884206
+  },
+  "45 MJ/kg, fc": {
+   "T_max": 2982.7916775045906,
+   "oxide_um": 891.2083101447424,
+   "dep_um": 47.5481838363693
+  },
+  "45 MJ/kg, nc": {
+   "T_max": 2073.818962859091,
+   "oxide_um": 97.13262699649513,
+   "dep_um": 43.98911762968064
+  }
+ },
+ "r7": 1.9973601035832889,
+ "runs": {
+  "V7/fc/joint": 100,
+  "V7/fc/bc": 50,
+  "V7/fc/input": 50,
+  "V7/nc/joint": 100,
+  "V7/nc/bc": 50,
+  "V7/nc/input": 50,
+  "V8_1/fc/joint": 100,
+  "V8_1/fc/bc": 50,
+  "V8_1/fc/input": 50,
+  "V8_1/fc/cal": 2,
+  "V8_1/nc/joint": 100,
+  "V8_1/nc/bc": 50,
+  "V8_1/nc/input": 50,
+  "V8_1/nc/cal": 2,
+  "V8_2/fc/joint": 100,
+  "V8_2/fc/bc": 50,
+  "V8_2/fc/input": 50,
+  "V8_2/fc/cal": 2,
+  "V8_2/nc/joint": 100,
+  "V8_2/nc/bc": 50,
+  "V8_2/nc/input": 50,
+  "V8_2/nc/cal": 2,
+  "V9/fc/joint": 100,
+  "V9/fc/bc": 50,
+  "V9/fc/input": 50,
+  "V9/fc/cal": 2,
+  "V9/nc/joint": 100,
+  "V9/nc/bc": 50,
+  "V9/nc/input": 50,
+  "V9/nc/cal": 2
+ },
+ "failed_runs": 4
+}

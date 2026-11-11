@@ -1,0 +1,32 @@
+# DIGITIZED from J. Schlichting, Glastech. Ber. 55 (1982) 167-170, Bild 3 (p. 169): 'Berechnete Sauerstoffdiffusionskoeffizienten in verschiedenen binaeren Kieselglaesern'
+# (oxygen diffusion coefficients calculated from Si-oxidation rates under gel-derived B2O3-SiO2 coatings via Schaeffer's correlation; compared with SiO2 data [10] and B2O3 data [32]).
+# These D are NOT molecular-O2 diffusivities: they are network-oxygen-equivalent values; see notes/GlassOxygenTransport_borosilicate.md for how they map to O2 permeability (UNSURE).
+# Source raster: PDF page 3 rendered at zoom 4 (PyMuPDF), clip x 0.50-0.96, y 0.06-0.42. Calibration from tick marks: 10^4/T px 238->8, 434->9, 629->10, 826->11;
+# log10 D px 289.5->-9, 402.5->-10, 511.5->-11, 622.5->-12, 731.5->-13, 840.5->-14, 949.5->-15 (fit 110 px/decade). Line centres from column dark-run centres.
+# CAUTION: the drawn borosilicate lines span 10^4/T = 9.32-10.0 on the bottom axis although the tests were at 700, 750, 800 C (text p. 168); the top-axis '700 C' tick is drafted at 10^4/T ~ 9.96,
+# so the right-hand line ends (here 10^4/T 9.898) probably belong to the 700 C tests (UNSURE). Points at 10^4/T 9.321 (800 C) and 9.776 (750 C) are consistent on both axes.
+# Reading uncertainty about +/-0.03 in log10 D. Composition = Stoffmengengehalt (mol%).
+glass,inv_T_1e4_per_K,T_K_bottom_axis,log10_D_cm2_s,D_cm2_s
+SiO2 + 30 mol% B2O3,9.321,1073,-8.786,1.64e-09
+SiO2 + 30 mol% B2O3,9.398,1064,-8.841,1.44e-09
+SiO2 + 30 mol% B2O3,9.776,1023,-9.095,8.03e-10
+SiO2 + 30 mol% B2O3,9.898,1010,-9.182,6.58e-10
+SiO2 + 20 mol% B2O3,9.321,1073,-8.973,1.06e-09
+SiO2 + 20 mol% B2O3,9.398,1064,-9.018,9.59e-10
+SiO2 + 20 mol% B2O3,9.776,1023,-9.236,5.8e-10
+SiO2 + 20 mol% B2O3,9.898,1010,-9.309,4.91e-10
+SiO2 + 5 mol% B2O3,9.321,1073,-9.632,2.33e-10
+SiO2 + 5 mol% B2O3,9.398,1064,-9.677,2.1e-10
+SiO2 + 5 mol% B2O3,9.776,1023,-9.895,1.27e-10
+SiO2 + 5 mol% B2O3,9.898,1010,-9.964,1.09e-10
+SiO2 + 1 mol% B2O3,9.321,1073,-10.432,3.7e-11
+SiO2 + 1 mol% B2O3,9.398,1064,-10.468,3.4e-11
+SiO2 + 1 mol% B2O3,9.776,1023,-10.655,2.22e-11
+SiO2 + 1 mol% B2O3,9.898,1010,-10.714,1.93e-11
+B2O3 (Tokuda et al. 1971; ref 32),9.898,1010,-8.841,1.44e-09
+B2O3 (Tokuda et al. 1971; ref 32),9.995,1001,-8.905,1.25e-09
+B2O3 (Tokuda et al. 1971; ref 32),10.301,971,-9.132,7.38e-10
+B2O3 (Tokuda et al. 1971; ref 32),10.612,942,-9.359,4.37e-10
+SiO2 (Muehlenbachs & Schaeffer 1977; ref 10; extrapolated),8.301,1205,-14.005,9.9e-15
+SiO2 (Muehlenbachs & Schaeffer 1977; ref 10; extrapolated),9.000,1111,-14.350,4.47e-15
+SiO2 (Muehlenbachs & Schaeffer 1977; ref 10; extrapolated),9.898,1010,-14.786,1.64e-15
