@@ -1,6 +1,7 @@
 # V7 — Arc-jet test: ZrB2–15SiC hemisphere (SPES, Savino et al. 2010)
 
-Inputs, targets and tolerances: `run_v7.py` header and `literature/V7_TARGET.md`.
+Inputs, targets and tolerances: `run_v7.py` header. The table behind them, with the source location of every value
+(`literature/V7_TARGET.md`), is a reading note that quotes its sources, so it is not part of the public archive.
 
 Plateau temperature at the end of each step (K):
 

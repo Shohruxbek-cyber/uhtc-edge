@@ -1,7 +1,8 @@
 """V7: arc-jet test of a ZrB2-15 vol% SiC hemisphere (R = 5 mm) in the SPES facility (University of Naples).
 
 Sources (open): Savino, De Stefano Fumo, Paterna, Di Maso, Open Aerosp. Eng. J. 3 (2010) 20-31 [T]; Di Maso PhD
-thesis, Univ. Naples (2009) [D].  Full input/target table with locations: literature/V7_TARGET.md.
+thesis, Univ. Naples (2009) [D].  Full input/target table with locations: literature/V7_TARGET.md (a reading
+note that quotes its sources, not part of the public archive; the values used are listed below).
 Inputs used:
   * steps 1-5: H0 = 4.5, 5.5, 7.0, 8.6, 10.0 MJ/kg and Pitot pressure 6800, 7400, 8100, 8800, 9500 Pa ([T] Table 3);
   * step start times 50, 130, 191, 247, 306 s and power-off at 548 s, from the transitions of the digitized
